@@ -1,0 +1,1001 @@
+Timestamp,What is your age?,What is your Gender,What is your current city/town of residence?,Which of the following best describes your current diet?,How long have you been following your current diet? ,What was your main motivation for choosing your current diet? ,"How many times per week do you consume non-vegetarian foods (meat, fish, eggs)?",How many times per week do you consume vegetarian foods?,"When eating out, how difficult is it to find meals that fit your diet?","How confident are you that your current diet meets your nutritional needs? (1= not at all confident, 5= extremely confident)","How important are ethical or environmental concerns in your food choices? (1= not important, 5= extremely important)",Do you plan to change your dietary pattern in the next 12 months?,who?
+2024-11-16 09:28:41.352600,23,Male,Pune,Non-Vegetarian,1–5 years,Health,Never,more,neutral,3,4,fuck no,Vedang
+2024-10-12 04:51:26.352600,54,Male,Pune,Eggetarian,5-10 years,Health,Never,more,easy,4,3,fuck no,Viraj
+2025-04-24 12:14:19.353600,61,Female,Pune,Vegetarian,more than 10 years,Other,3-4,5,easy,5,4,yes,Vedang
+2024-10-01 13:16:39.353600,45,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,5,1-2,easy,4,4,fuck no,Vedang
+2025-02-20 18:18:50.353600,36,Male,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,3-4,neutral,3,3,fuck no,Yash
+2025-08-02 06:50:19.353600,26,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,2,fuck no,Yash
+2025-03-08 09:21:48.353600,54,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,3-4,neutral,5,4,fuck no,Viraj
+2025-02-11 07:55:13.353600,51,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,1-2,more,easy,3,4,maybe,Tushar
+2025-05-26 19:44:10.353600,27,Female,Pune,Vegetarian,1–5 years,Health,Never,3-4,neutral,4,2,maybe,Yash
+2025-04-21 18:54:53.353600,44,Male,Pune,Vegetarian,more than 10 years,Other,3-4,more,neutral,3,5,maybe,Viraj
+2025-07-10 17:19:35.353600,51,Female,Pune,Vegetarian,1–5 years,Health,Never,3-4,neutral,3,5,maybe,Yash
+2025-08-24 18:57:50.353600,43,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,neutral,5,3,fuck no,Yash
+2025-04-11 07:36:39.353600,46,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,5,4,fuck no,Viraj
+2024-10-22 09:40:13.353600,28,Male,Pune,Eggetarian,1–5 years,Taste preference,Never,more,neutral,5,3,fuck no,Yash
+2024-09-30 14:07:26.353600,35,Male,Pune,Vegetarian,more than 10 years,Health,Never,1-2,neutral,4,5,fuck no,Viraj
+2025-04-17 08:16:36.353600,52,Female,Pune,Vegan,more than 10 years,Ethics/Religious Beliefs,Never,more,easy,3,3,maybe,Viraj
+2024-10-06 22:55:26.353600,27,Female,Pune,Non-Vegetarian,1–5 years,Health,3-4,5,neutral,3,3,maybe,Yash
+2024-10-16 07:33:37.353600,23,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,5,neutral,3,1,fuck no,Yash
+2025-06-02 22:25:36.353600,41,Male,Pune,Vegetarian,more than 10 years,Health,3-4,more,neutral,5,3,fuck no,Viraj
+2025-06-08 16:55:58.353600,31,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,easy,3,3,yes,Viraj
+2025-02-15 06:42:26.353600,46,Female,Pune,Eggetarian,Less than 1 year,Taste preference,Never,more,neutral,5,5,yes,Yash
+2024-11-02 15:42:17.353600,26,Male,Pune,Vegetarian,1–5 years,Family Tradition,1-2,3-4,easy,3,4,fuck no,Yash
+2025-02-19 03:41:19.353600,27,Male,Pune,Vegetarian,5-10 years,Taste preference,Never,more,neutral,5,3,yes,Yash
+2025-07-28 04:52:37.354598,22,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,3,4,yes,Tushar
+2025-04-02 08:03:31.354598,24,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,easy,4,3,fuck no,Vedang
+2025-02-13 16:11:42.354598,58,Male,Pune,Vegetarian,1–5 years,Family Tradition,Never,more,neutral,4,3,yes,Yash
+2025-06-02 11:45:39.354598,32,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,1-2,easy,3,3,fuck no,Yash
+2025-03-29 19:29:23.354971,64,Male,Pune,Eggetarian,more than 10 years,Taste preference,Never,5,easy,3,3,fuck no,Viraj
+2025-06-24 23:23:30.354971,57,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,more,easy,5,3,maybe,Tushar
+2025-06-04 02:45:58.354971,62,Male,Pune,Eggetarian,Less than 1 year,Taste preference,5,3-4,easy,3,2,fuck no,Viraj
+2025-07-15 14:50:37.354971,48,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,easy,4,3,fuck no,Viraj
+2025-01-08 10:19:16.354971,55,Female,Pune,Non-Vegetarian,more than 10 years,Health,5,1-2,neutral,3,5,fuck no,Yash
+2025-06-09 08:04:20.354971,18,Female,Pune,Non-Vegetarian,Less than 1 year,Health,5,1-2,easy,5,5,fuck no,Tushar
+2025-03-21 14:54:20.354971,44,Female,Pune,Vegetarian,Less than 1 year,Health,1-2,more,difficult,5,4,fuck no,Viraj
+2024-10-21 07:32:26.354971,34,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,more,neutral,3,4,yes,Vedang
+2025-09-21 01:27:51.354971,42,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,3-4,easy,4,4,yes,Tushar
+2025-05-12 14:41:56.354971,24,Male,Pune,Other,Less than 1 year,Health,Never,3-4,neutral,3,4,maybe,Yash
+2025-07-03 08:32:59.354971,47,Male,Pune,Other,Less than 1 year,Health,1-2,5,easy,5,4,yes,Viraj
+2025-07-10 01:05:31.355988,61,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,1-2,easy,5,3,fuck no,Yash
+2025-09-28 04:05:09.355988,62,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,4,3,fuck no,Vedang
+2025-05-12 13:51:17.355988,57,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,3,3,fuck no,Vedang
+2024-11-07 05:39:58.355988,59,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,difficult,3,4,maybe,Viraj
+2024-11-21 16:09:11.355988,47,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,3-4,neutral,1,5,fuck no,Viraj
+2024-12-06 02:44:11.355988,35,Male,Pune,Vegetarian,5-10 years,Family Tradition,1-2,more,neutral,2,3,maybe,Viraj
+2024-12-08 04:10:18.355988,33,Male,Pune,Vegetarian,5-10 years,Taste preference,1-2,5,easy,3,3,fuck no,Yash
+2025-08-11 09:51:07.355988,38,Female,Pune,Vegetarian,more than 10 years,Health,Never,1-2,easy,4,5,yes,Viraj
+2025-01-21 20:12:51.356557,19,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,3-4,neutral,3,3,fuck no,Yash
+2025-05-22 10:47:29.356557,36,Female,Pune,Vegetarian,more than 10 years,Family Tradition,Never,1-2,difficult,4,3,maybe,Tushar
+2024-12-06 16:38:48.356557,27,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,more,difficult,4,4,fuck no,Tushar
+2025-01-30 14:22:00.356557,49,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,3-4,easy,5,3,fuck no,Yash
+2025-06-05 07:33:00.356557,41,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,5,4,yes,Yash
+2024-12-24 01:14:05.356557,59,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,3-4,more,neutral,4,3,yes,Viraj
+2025-07-31 23:34:43.356557,25,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,5,easy,4,3,fuck no,Yash
+2024-11-25 20:18:19.356557,52,Prefer not to say,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,easy,4,4,maybe,Viraj
+2025-01-26 10:23:26.356557,33,Male,Pune,Vegetarian,more than 10 years,Family Tradition,Never,3-4,neutral,4,5,fuck no,Viraj
+2024-12-29 16:36:49.356557,63,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,5,neutral,5,5,fuck no,Yash
+2025-01-19 16:31:15.357551,58,Female,Pune,Vegetarian,Less than 1 year,Health,3-4,more,difficult,3,2,yes,Tushar
+2024-10-02 06:00:14.357551,55,Female,Pune,Vegetarian,more than 10 years,Taste preference,1-2,1-2,easy,1,3,yes,Vedang
+2025-07-06 20:51:33.357551,27,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,Never,neutral,3,2,yes,Tushar
+2024-10-17 03:01:42.357551,56,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,easy,5,4,fuck no,Vedang
+2025-01-23 21:14:15.357551,42,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,neutral,5,5,yes,Viraj
+2024-11-19 06:35:42.357551,57,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,3-4,easy,1,3,maybe,Yash
+2024-10-04 17:34:39.357551,18,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,1-2,difficult,4,4,maybe,Viraj
+2024-10-04 03:17:17.357941,48,Male,Pune,Other,1–5 years,Health,3-4,more,neutral,4,4,maybe,Viraj
+2025-01-31 04:27:24.357941,26,Male,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,3,3,maybe,Vedang
+2025-02-28 12:46:21.357941,18,Female,Pune,Vegetarian,more than 10 years,Taste preference,5,more,neutral,3,4,yes,Viraj
+2025-03-20 04:03:54.357941,26,Male,Pune,Vegan,Less than 1 year,Health,1-2,more,easy,5,5,maybe,Viraj
+2024-11-19 13:19:21.357941,63,Female,Pune,Non-Vegetarian,1–5 years,Other,Never,more,neutral,4,3,fuck no,Yash
+2024-12-15 08:55:08.357941,55,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,neutral,4,2,fuck no,Vedang
+2025-01-16 11:56:30.357941,19,Female,Pune,Eggetarian,more than 10 years,Taste preference,Never,3-4,easy,3,4,fuck no,Tushar
+2025-02-28 10:09:15.357941,61,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,5,neutral,1,4,fuck no,Viraj
+2025-05-31 10:31:54.357941,49,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,1-2,easy,4,3,fuck no,Yash
+2025-05-25 06:28:05.357941,43,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,3-4,neutral,5,4,fuck no,Viraj
+2025-07-10 15:27:58.357941,28,Male,Pune,Vegetarian,Less than 1 year,Other,5,1-2,neutral,5,4,fuck no,Vedang
+2025-07-27 21:07:58.357941,42,Male,Pune,Non-Vegetarian,Less than 1 year,Other,Never,more,easy,4,4,fuck no,Yash
+2025-07-25 04:09:48.357941,36,Male,Pune,Non-Vegetarian,5-10 years,Taste preference,Never,more,neutral,4,4,maybe,Viraj
+2024-11-17 17:39:24.357941,47,Male,Pune,Other,Less than 1 year,Family Tradition,1-2,more,neutral,3,4,maybe,Yash
+2025-02-17 07:39:58.357941,64,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,5,neutral,3,4,maybe,Tushar
+2025-08-30 17:44:29.357941,22,Male,Pune,Vegetarian,1–5 years,Other,5,more,easy,4,5,fuck no,Yash
+2025-02-28 20:58:07.357941,31,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,3-4,neutral,4,3,maybe,Yash
+2024-10-03 15:14:20.357941,37,Female,Pune,Eggetarian,Less than 1 year,Taste preference,Never,1-2,easy,4,3,fuck no,Yash
+2025-01-10 04:21:14.357941,26,Male,Pune,Vegetarian,1–5 years,Health,Never,3-4,easy,4,5,yes,Viraj
+2025-03-15 08:57:52.357941,24,Male,Pune,Other,Less than 1 year,Taste preference,Never,more,easy,3,5,fuck no,Yash
+2025-01-27 04:54:46.357941,24,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,neutral,4,4,fuck no,Vedang
+2025-01-31 18:27:28.357941,52,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,easy,3,5,fuck no,Yash
+2025-07-26 23:55:15.357941,29,Male,Pune,Vegetarian,1–5 years,Health,5,more,neutral,1,5,yes,Viraj
+2025-05-30 22:38:57.357941,18,Male,Pune,Vegetarian,1–5 years,Health,3-4,more,difficult,3,5,fuck no,Vedang
+2025-08-01 04:00:53.357941,36,Female,Pune,Eggetarian,more than 10 years,Health,5,5,neutral,3,3,fuck no,Viraj
+2025-02-20 08:58:11.357941,59,Female,Pune,Vegan,more than 10 years,Family Tradition,Never,1-2,neutral,3,3,fuck no,Yash
+2025-02-04 00:57:44.357941,42,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,5,3,maybe,Tushar
+2024-10-12 20:57:19.357941,28,Female,Pune,Vegetarian,more than 10 years,Health,Never,5,difficult,5,2,maybe,Yash
+2025-04-26 13:36:36.357941,53,Female,Pune,Vegetarian,1–5 years,Health,more,more,easy,5,5,yes,Yash
+2025-07-06 09:37:46.357941,34,Female,Pune,Non-Vegetarian,more than 10 years,Other,Never,more,neutral,3,2,yes,Yash
+2025-07-25 11:38:05.357941,52,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,3-4,difficult,4,4,fuck no,Yash
+2025-06-13 16:27:22.357941,64,Male,Pune,Non-Vegetarian,5-10 years,Health,1-2,3-4,neutral,4,5,yes,Vedang
+2025-07-22 03:02:17.357941,31,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,3-4,neutral,4,3,maybe,Tushar
+2024-11-20 06:54:32.357941,39,Female,Pune,Vegetarian,1–5 years,Taste preference,1-2,more,difficult,3,3,fuck no,Vedang
+2025-09-25 15:03:06.357941,52,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,difficult,3,3,fuck no,Viraj
+2025-04-08 08:07:00.357941,37,Female,Pune,Other,more than 10 years,Health,1-2,more,neutral,4,4,fuck no,Yash
+2025-05-31 22:16:00.357941,42,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,5,neutral,1,5,maybe,Vedang
+2025-08-06 20:25:31.357941,31,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,more,easy,5,4,fuck no,Yash
+2024-12-23 01:49:46.357941,25,Female,Pune,Eggetarian,1–5 years,Other,Never,more,neutral,3,3,fuck no,Tushar
+2025-08-14 19:42:43.357941,62,Female,Pune,Vegetarian,more than 10 years,Family Tradition,Never,more,easy,4,5,yes,Viraj
+2024-10-24 16:50:13.357941,65,Male,Pune,Vegan,5-10 years,Other,1-2,more,easy,4,3,fuck no,Vedang
+2025-01-20 05:45:00.357941,56,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,3,5,maybe,Viraj
+2025-04-13 04:40:00.357941,36,Male,Pune,Vegetarian,Less than 1 year,Health,Never,Never,easy,5,5,maybe,Yash
+2025-07-05 09:48:36.357941,55,Male,Pune,Vegetarian,1–5 years,Taste preference,3-4,3-4,neutral,3,4,fuck no,Yash
+2025-06-23 22:18:52.357941,49,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,easy,5,4,fuck no,Viraj
+2024-10-30 23:50:29.357941,53,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,3-4,3-4,neutral,4,5,yes,Tushar
+2024-12-11 23:57:47.357941,29,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,3-4,5,neutral,4,4,maybe,Viraj
+2025-03-12 13:36:55.357941,27,Female,Pune,Non-Vegetarian,Less than 1 year,Other,Never,more,neutral,3,4,fuck no,Yash
+2025-06-16 09:01:08.357941,26,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,2,3,yes,Yash
+2025-06-09 16:52:54.357941,63,Prefer not to say,Pune,Non-Vegetarian,1–5 years,Health,1-2,5,neutral,4,5,yes,Viraj
+2025-04-17 10:49:15.357941,35,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,1-2,easy,5,5,fuck no,Vedang
+2025-09-03 09:41:03.357941,23,Female,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,5,more,easy,4,3,yes,Viraj
+2024-11-17 03:17:41.357941,61,Female,Pune,Non-Vegetarian,more than 10 years,Other,1-2,5,easy,4,5,fuck no,Viraj
+2024-11-19 09:57:52.357941,44,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,1-2,easy,3,1,yes,Vedang
+2025-01-07 17:04:11.357941,48,Male,Pune,Non-Vegetarian,5-10 years,Health,1-2,more,difficult,5,5,yes,Vedang
+2025-02-06 21:16:07.357941,26,Female,Pune,Eggetarian,Less than 1 year,Other,1-2,3-4,easy,5,2,yes,Yash
+2025-09-23 01:56:51.357941,52,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,5,difficult,3,5,maybe,Viraj
+2024-11-01 06:56:31.357941,58,Female,Pune,Vegetarian,more than 10 years,Family Tradition,Never,more,neutral,5,5,fuck no,Tushar
+2025-04-26 15:55:19.357941,47,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,more,more,neutral,4,5,maybe,Yash
+2024-12-13 00:30:11.357941,35,Female,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,Never,1-2,neutral,3,5,maybe,Yash
+2025-09-11 00:28:18.357941,34,Male,Pune,Vegetarian,1–5 years,Other,3-4,5,neutral,2,3,fuck no,Viraj
+2025-04-07 20:53:49.357941,27,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,3-4,neutral,4,5,yes,Yash
+2025-02-23 01:24:57.357941,64,Female,Pune,Other,5-10 years,Health,1-2,more,neutral,5,4,fuck no,Yash
+2025-06-17 09:42:59.357941,62,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,3-4,neutral,5,5,yes,Vedang
+2025-08-14 15:29:32.357941,64,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,difficult,4,4,fuck no,Viraj
+2024-11-24 16:53:14.357941,31,Female,Pune,Vegetarian,more than 10 years,Taste preference,3-4,more,difficult,3,4,maybe,Yash
+2025-04-13 16:40:28.357941,25,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,4,3,fuck no,Vedang
+2025-04-25 17:36:04.357941,54,Male,Pune,Vegetarian,Less than 1 year,Taste preference,3-4,1-2,neutral,5,3,maybe,Yash
+2025-04-03 00:43:39.357941,20,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,5,neutral,4,5,maybe,Viraj
+2025-04-19 23:47:33.357941,49,Male,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,4,5,yes,Tushar
+2025-06-26 10:28:26.357941,43,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,4,5,yes,Yash
+2024-11-19 03:58:08.357941,31,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,3,4,fuck no,Yash
+2025-08-23 09:35:02.357941,27,Male,Pune,Vegan,1–5 years,Family Tradition,1-2,1-2,difficult,3,3,yes,Viraj
+2025-07-24 13:05:12.357941,54,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,4,3,yes,Yash
+2024-11-28 03:05:39.357941,65,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,more,more,easy,1,3,maybe,Vedang
+2024-12-24 17:51:01.357941,25,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,3-4,neutral,5,5,maybe,Vedang
+2024-11-27 14:54:50.357941,36,Male,Pune,Vegetarian,1–5 years,Health,more,more,difficult,4,1,maybe,Yash
+2025-02-10 11:33:58.357941,57,Male,Pune,Eggetarian,Less than 1 year,Health,3-4,more,neutral,2,3,maybe,Yash
+2025-09-10 22:17:18.357941,45,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,more,3-4,neutral,5,4,fuck no,Yash
+2025-07-28 18:49:28.357941,56,Female,Pune,Eggetarian,Less than 1 year,Taste preference,1-2,more,neutral,5,4,maybe,Yash
+2024-11-26 05:40:58.357941,44,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,3-4,neutral,4,5,maybe,Viraj
+2025-06-26 10:13:04.357941,33,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,1-2,easy,3,3,fuck no,Yash
+2025-03-22 09:43:03.357941,38,Male,Pune,Non-Vegetarian,5-10 years,Health,3-4,more,neutral,5,3,fuck no,Yash
+2025-06-06 06:47:01.357941,58,Male,Pune,Eggetarian,Less than 1 year,Health,3-4,more,neutral,3,3,yes,Vedang
+2024-12-29 12:48:51.357941,60,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,neutral,3,3,fuck no,Viraj
+2025-06-22 10:00:16.357941,43,Female,Pune,Vegetarian,more than 10 years,Family Tradition,Never,more,easy,4,4,yes,Yash
+2025-03-26 23:43:10.357941,62,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,4,4,maybe,Vedang
+2025-08-27 02:51:46.357941,40,Male,Pune,Vegetarian,1–5 years,Health,3-4,more,easy,3,5,yes,Vedang
+2024-11-19 04:04:34.357941,41,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,1-2,easy,3,4,fuck no,Yash
+2025-02-04 04:33:53.357941,27,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,more,easy,3,3,yes,Viraj
+2025-09-24 12:01:30.357941,59,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,5,5,maybe,Tushar
+2025-08-25 09:29:36.357941,49,Male,Pune,Non-Vegetarian,Less than 1 year,Other,3-4,Never,neutral,5,4,maybe,Yash
+2025-06-25 17:12:10.357941,51,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,3,5,maybe,Viraj
+2025-01-01 01:23:27.357941,48,Female,Pune,Eggetarian,Less than 1 year,Health,1-2,3-4,neutral,4,5,maybe,Vedang
+2024-10-29 17:56:32.357941,61,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,5,easy,5,4,maybe,Viraj
+2024-12-16 04:10:38.357941,53,Female,Pune,Vegetarian,1–5 years,Taste preference,3-4,1-2,neutral,1,3,fuck no,Tushar
+2025-04-01 10:24:02.357941,54,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,difficult,5,5,maybe,Vedang
+2025-09-10 20:40:26.357941,28,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,4,3,fuck no,Yash
+2025-07-18 05:46:38.357941,34,Male,Pune,Vegetarian,more than 10 years,Health,5,more,easy,4,4,fuck no,Viraj
+2025-03-19 20:02:00.357941,36,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,easy,1,5,maybe,Yash
+2024-10-06 07:45:54.357941,31,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,3-4,neutral,4,4,fuck no,Vedang
+2025-06-04 20:39:14.357941,51,Male,Pune,Vegetarian,1–5 years,Health,Never,more,neutral,4,4,maybe,Yash
+2025-08-02 03:21:09.357941,61,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,difficult,5,3,fuck no,Vedang
+2024-11-23 03:30:55.357941,23,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,1-2,easy,1,3,fuck no,Tushar
+2025-02-17 23:33:28.357941,24,Female,Pune,Non-Vegetarian,Less than 1 year,Health,more,3-4,easy,3,5,maybe,Tushar
+2025-03-07 13:34:59.357941,24,Male,Pune,Eggetarian,Less than 1 year,Health,1-2,1-2,difficult,3,4,fuck no,Yash
+2025-02-16 08:50:28.357941,54,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,5,3,maybe,Yash
+2025-02-10 03:28:00.357941,34,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,3,3,fuck no,Tushar
+2025-04-27 02:36:20.357941,19,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,easy,3,4,fuck no,Viraj
+2025-07-24 11:40:02.357941,31,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,5,easy,5,1,yes,Vedang
+2024-10-10 20:01:20.357941,47,Male,Pune,Vegetarian,more than 10 years,Health,1-2,3-4,neutral,3,3,fuck no,Tushar
+2025-06-01 10:24:38.357941,59,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,3-4,easy,4,3,fuck no,Viraj
+2025-07-06 04:28:05.357941,28,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,3-4,neutral,4,3,yes,Vedang
+2025-03-19 21:06:23.357941,62,Female,Pune,Vegetarian,more than 10 years,Other,Never,more,neutral,3,3,maybe,Tushar
+2025-08-16 09:21:31.357941,52,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,5,difficult,5,3,yes,Vedang
+2025-06-14 19:19:00.357941,29,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,neutral,3,2,fuck no,Tushar
+2025-06-04 10:23:17.357941,51,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,4,5,fuck no,Yash
+2025-04-02 06:53:56.357941,50,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,5,easy,5,3,maybe,Vedang
+2025-09-21 15:35:55.357941,60,Male,Pune,Non-Vegetarian,1–5 years,Family Tradition,1-2,1-2,easy,3,3,maybe,Vedang
+2025-02-28 08:18:24.357941,50,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,3-4,difficult,4,4,yes,Tushar
+2025-07-12 06:11:43.357941,55,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,more,easy,3,4,yes,Viraj
+2024-10-31 00:46:25.357941,23,Male,Pune,Vegetarian,1–5 years,Health,3-4,3-4,neutral,3,3,fuck no,Viraj
+2025-04-04 06:30:02.357941,40,Male,Pune,Vegetarian,more than 10 years,Health,more,more,easy,3,5,yes,Vedang
+2024-11-16 05:34:08.357941,59,Female,Pune,Other,1–5 years,Health,1-2,3-4,neutral,3,5,yes,Yash
+2024-12-25 21:47:31.357941,29,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,1-2,easy,5,2,maybe,Yash
+2025-08-21 10:58:58.357941,28,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,more,neutral,5,4,maybe,Vedang
+2024-12-01 07:46:03.357941,35,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,5,difficult,1,4,maybe,Viraj
+2025-09-05 07:30:22.357941,64,Male,Pune,Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,4,3,fuck no,Viraj
+2025-03-17 21:48:36.357941,18,Male,Pune,Vegetarian,1–5 years,Taste preference,5,more,difficult,1,5,fuck no,Viraj
+2024-11-17 07:24:21.357941,38,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,easy,4,3,maybe,Vedang
+2025-06-24 18:34:08.357941,37,Male,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,5,more,neutral,3,4,fuck no,Yash
+2025-08-30 15:30:37.357941,48,Male,Pune,Vegetarian,more than 10 years,Family Tradition,Never,5,easy,3,5,yes,Yash
+2024-10-02 06:09:55.357941,28,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,Never,5,neutral,4,5,fuck no,Tushar
+2025-08-18 03:39:08.357941,48,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,4,3,maybe,Vedang
+2025-02-09 16:51:11.357941,59,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,easy,3,5,maybe,Yash
+2025-01-07 19:25:06.357941,41,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,5,4,maybe,Yash
+2025-05-22 23:18:27.357941,22,Male,Pune,Vegetarian,Less than 1 year,Health,5,more,neutral,4,4,yes,Viraj
+2025-07-30 00:18:14.357941,24,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,more,difficult,4,3,maybe,Vedang
+2024-10-09 04:20:13.357941,43,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,5,easy,4,2,fuck no,Viraj
+2025-01-05 05:04:33.357941,21,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,neutral,3,3,maybe,Yash
+2024-10-23 15:19:05.357941,29,Female,Pune,Eggetarian,Less than 1 year,Taste preference,Never,more,neutral,3,5,yes,Yash
+2024-11-04 22:03:20.357941,19,Female,Pune,Vegetarian,more than 10 years,Family Tradition,3-4,3-4,neutral,5,5,fuck no,Yash
+2024-11-21 21:30:32.357941,36,Male,Pune,Vegan,more than 10 years,Taste preference,3-4,more,neutral,5,5,maybe,Yash
+2025-03-09 12:55:59.357941,21,Female,Pune,Eggetarian,more than 10 years,Health,3-4,3-4,difficult,2,5,fuck no,Tushar
+2025-04-11 20:03:39.357941,54,Male,Pune,Vegetarian,more than 10 years,Other,Never,more,neutral,3,5,yes,Viraj
+2025-01-09 00:20:38.364890,50,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,5,more,neutral,3,5,yes,Yash
+2025-02-11 15:55:01.364890,36,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,4,5,yes,Vedang
+2025-01-21 01:35:03.364890,28,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,3-4,neutral,4,4,yes,Yash
+2025-03-09 22:33:40.364890,19,Male,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,1-2,more,neutral,4,5,fuck no,Tushar
+2025-08-04 09:42:10.364890,64,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,Never,neutral,3,5,fuck no,Tushar
+2025-02-13 06:16:09.364890,31,Male,Pune,Vegetarian,1–5 years,Health,more,5,difficult,1,2,yes,Yash
+2025-04-29 17:42:14.364890,34,Male,Pune,Other,more than 10 years,Health,1-2,more,easy,3,5,maybe,Yash
+2025-03-01 09:16:46.364890,22,Female,Pune,Non-Vegetarian,1–5 years,Other,Never,more,difficult,3,2,fuck no,Vedang
+2024-10-16 21:33:28.364890,26,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,5,2,maybe,Yash
+2025-09-19 02:01:40.364890,35,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,5,more,neutral,4,3,fuck no,Yash
+2024-10-19 05:32:41.364890,29,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,5,easy,3,4,maybe,Viraj
+2025-08-02 07:22:19.364890,19,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,difficult,4,3,fuck no,Viraj
+2024-12-27 02:26:54.364890,47,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,4,5,fuck no,Yash
+2025-01-23 09:18:39.365579,31,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,Never,neutral,3,4,fuck no,Viraj
+2025-04-30 03:03:41.365579,57,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,difficult,2,4,fuck no,Viraj
+2025-02-11 12:35:32.365579,20,Male,Pune,Eggetarian,Less than 1 year,Health,3-4,more,easy,1,4,yes,Tushar
+2025-03-16 19:52:32.365579,54,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,difficult,4,1,yes,Tushar
+2024-12-06 14:23:53.365579,36,Male,Pune,Vegetarian,5-10 years,Health,1-2,more,neutral,3,5,maybe,Yash
+2025-02-05 10:55:01.365579,30,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,5,easy,1,3,maybe,Viraj
+2025-04-10 14:36:29.365579,57,Female,Pune,Other,Less than 1 year,Family Tradition,1-2,1-2,easy,4,2,fuck no,Tushar
+2025-05-11 02:56:37.366085,38,Male,Pune,Non-Vegetarian,Less than 1 year,Other,Never,more,neutral,3,4,yes,Viraj
+2025-04-23 00:33:16.366085,35,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,easy,3,3,fuck no,Vedang
+2025-06-24 05:25:18.366085,53,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,neutral,4,4,maybe,Viraj
+2024-12-13 08:09:15.366085,36,Female,Pune,Vegan,more than 10 years,Family Tradition,Never,5,neutral,4,3,yes,Yash
+2025-08-20 23:33:05.366085,50,Female,Pune,Non-Vegetarian,Less than 1 year,Other,5,more,neutral,4,4,fuck no,Vedang
+2024-12-17 22:21:46.366085,54,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,1-2,neutral,3,3,fuck no,Viraj
+2025-04-19 08:40:52.366085,31,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,easy,5,4,maybe,Viraj
+2025-03-04 23:43:51.366619,55,Male,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,3-4,difficult,4,2,maybe,Vedang
+2025-06-20 08:52:54.366619,18,Male,Pune,Eggetarian,more than 10 years,Family Tradition,5,more,easy,5,3,fuck no,Tushar
+2025-07-04 05:44:56.366619,48,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,more,easy,4,4,fuck no,Yash
+2025-09-14 02:31:55.366619,24,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,4,4,fuck no,Tushar
+2024-10-02 21:26:51.366619,46,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,5,3,maybe,Tushar
+2025-04-17 21:11:34.366619,64,Female,Pune,Vegetarian,Less than 1 year,Health,more,5,easy,3,4,yes,Yash
+2025-09-29 05:10:50.366619,27,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,neutral,5,4,fuck no,Tushar
+2024-10-12 04:11:02.366619,37,Female,Pune,Vegetarian,Less than 1 year,Family Tradition,Never,more,neutral,2,5,maybe,Yash
+2025-05-02 09:01:04.366619,60,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,3-4,neutral,3,4,fuck no,Tushar
+2025-04-28 09:50:45.366619,52,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,3,4,fuck no,Vedang
+2025-09-06 05:04:01.366619,26,Male,Pune,Eggetarian,Less than 1 year,Taste preference,5,more,difficult,3,4,yes,Yash
+2025-04-03 17:41:21.366619,54,Female,Pune,Non-Vegetarian,1–5 years,Other,5,3-4,easy,5,2,fuck no,Tushar
+2025-01-12 05:09:26.366619,63,Male,Pune,Vegetarian,Less than 1 year,Family Tradition,1-2,3-4,easy,5,4,maybe,Yash
+2025-04-14 02:13:33.366619,63,Male,Pune,Other,5-10 years,Health,1-2,more,easy,4,4,fuck no,Yash
+2025-01-15 05:51:47.366619,48,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,difficult,5,3,fuck no,Viraj
+2025-08-29 02:03:13.366619,36,Female,Pune,Vegan,1–5 years,Family Tradition,1-2,more,neutral,4,4,maybe,Tushar
+2025-04-08 04:42:20.366619,64,Female,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,neutral,4,3,fuck no,Yash
+2024-11-28 00:50:26.366619,48,Female,Pune,Vegetarian,more than 10 years,Family Tradition,3-4,more,easy,3,5,yes,Yash
+2025-05-21 22:28:38.366619,21,Male,Pune,Eggetarian,Less than 1 year,Health,Never,1-2,neutral,4,3,maybe,Viraj
+2025-01-19 12:01:16.366619,51,Male,Pune,Vegetarian,Less than 1 year,Health,Never,5,neutral,5,4,yes,Viraj
+2024-09-30 03:37:00.367714,44,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,3,1,fuck no,Yash
+2025-05-26 01:43:08.367714,30,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,more,difficult,3,3,fuck no,Yash
+2025-05-20 23:34:42.367714,24,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,difficult,5,1,fuck no,Viraj
+2024-11-26 11:36:45.367714,26,Female,Pune,Eggetarian,more than 10 years,Health,1-2,more,easy,4,4,maybe,Yash
+2025-04-22 23:53:14.367714,42,Female,Pune,Vegetarian,1–5 years,Health,1-2,more,easy,5,3,yes,Yash
+2025-05-15 06:39:26.367714,55,Female,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,more,easy,5,3,maybe,Yash
+2025-09-22 14:02:29.367714,47,Male,Pune,Vegetarian,more than 10 years,Health,3-4,1-2,easy,4,3,maybe,Viraj
+2025-08-23 10:12:42.367714,35,Male,Pune,Non-Vegetarian,1–5 years,Health,3-4,3-4,difficult,4,3,fuck no,Viraj
+2025-04-26 11:26:25.367714,54,Female,Pune,Eggetarian,more than 10 years,Health,Never,more,difficult,3,4,maybe,Vedang
+2025-04-21 09:57:55.367714,33,Male,Pune,Vegetarian,more than 10 years,Health,more,more,neutral,3,4,yes,Yash
+2025-08-12 12:25:27.367714,36,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,4,4,fuck no,Yash
+2025-05-18 22:33:26.367714,34,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,1-2,more,neutral,5,4,maybe,Yash
+2025-08-28 10:06:10.367714,52,Female,Pune,Vegetarian,1–5 years,Other,3-4,more,difficult,5,5,yes,Tushar
+2025-09-17 07:36:14.367714,32,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,5,difficult,3,5,maybe,Yash
+2025-08-31 19:36:00.367714,20,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,5,neutral,3,5,maybe,Vedang
+2025-08-19 15:09:28.367714,28,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,3-4,more,easy,3,5,maybe,Viraj
+2025-04-28 07:27:22.367714,30,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,1-2,neutral,3,5,maybe,Yash
+2025-08-04 16:49:10.367714,36,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,5,4,maybe,Yash
+2024-11-18 05:23:05.367714,18,Male,Pune,Other,more than 10 years,Taste preference,1-2,3-4,easy,4,5,maybe,Viraj
+2024-12-18 04:06:05.367714,62,Male,Pune,Vegetarian,5-10 years,Family Tradition,Never,more,difficult,5,4,maybe,Tushar
+2024-12-17 21:50:57.367714,65,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,1-2,neutral,3,4,fuck no,Viraj
+2025-02-24 16:20:09.367714,31,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,easy,1,4,fuck no,Viraj
+2025-08-12 23:45:16.367714,23,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,neutral,1,4,yes,Viraj
+2025-05-13 00:07:28.367714,65,Female,Pune,Non-Vegetarian,5-10 years,Health,more,more,neutral,3,4,yes,Yash
+2025-03-22 16:14:06.367714,61,Female,Pune,Eggetarian,Less than 1 year,Taste preference,Never,3-4,easy,4,5,maybe,Yash
+2024-11-26 14:28:31.367714,39,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,difficult,1,5,fuck no,Vedang
+2025-01-04 12:38:04.367714,24,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,5,neutral,4,4,maybe,Yash
+2024-11-04 09:00:39.367714,24,Female,Pune,Vegetarian,Less than 1 year,Health,5,more,neutral,5,5,yes,Vedang
+2025-03-19 15:24:10.367714,53,Male,Pune,Vegetarian,1–5 years,Taste preference,3-4,5,easy,5,5,maybe,Viraj
+2025-01-06 01:43:06.367714,45,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,5,easy,5,4,yes,Yash
+2025-09-12 12:37:06.367714,27,Male,Pune,Eggetarian,Less than 1 year,Taste preference,1-2,more,neutral,5,5,fuck no,Yash
+2025-09-14 19:04:27.367714,52,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,neutral,5,4,fuck no,Vedang
+2024-11-20 00:48:06.367714,46,Male,Pune,Vegetarian,1–5 years,Health,more,5,easy,4,5,maybe,Vedang
+2024-11-12 10:05:33.367714,55,Male,Pune,Vegetarian,1–5 years,Health,3-4,more,difficult,4,4,maybe,Yash
+2024-10-23 12:54:53.367714,31,Male,Pune,Other,5-10 years,Taste preference,1-2,more,neutral,3,5,maybe,Tushar
+2025-03-10 07:02:27.367714,61,Female,Pune,Vegetarian,1–5 years,Health,1-2,5,neutral,4,3,yes,Tushar
+2025-07-02 08:08:17.367714,47,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,3-4,neutral,4,3,maybe,Viraj
+2024-12-13 19:52:53.367714,37,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,difficult,4,5,fuck no,Yash
+2024-12-23 16:10:15.367714,40,Male,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,more,difficult,4,5,fuck no,Yash
+2025-08-28 17:13:22.367714,64,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,5,difficult,5,3,yes,Viraj
+2024-10-15 05:11:21.367714,25,Female,Pune,Vegan,1–5 years,Other,5,3-4,easy,5,3,yes,Tushar
+2024-10-08 16:04:15.367714,51,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,Never,more,easy,4,4,fuck no,Yash
+2025-08-14 18:38:54.367714,56,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,easy,5,4,maybe,Yash
+2025-06-05 23:44:24.367714,29,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,easy,4,5,fuck no,Yash
+2025-07-14 11:16:21.367714,36,Female,Pune,Vegetarian,5-10 years,Ethics/Religious Beliefs,Never,more,neutral,3,3,maybe,Viraj
+2024-10-06 02:44:59.367714,48,Female,Pune,Vegetarian,1–5 years,Taste preference,Never,more,difficult,4,4,maybe,Yash
+2025-09-06 02:55:03.367714,51,Female,Pune,Vegetarian,1–5 years,Taste preference,1-2,more,easy,3,5,yes,Viraj
+2024-12-09 06:20:39.367714,42,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,3,fuck no,Viraj
+2024-10-30 06:17:54.367714,51,Male,Pune,Non-Vegetarian,5-10 years,Family Tradition,5,1-2,neutral,4,4,yes,Vedang
+2024-10-09 17:29:46.367714,30,Male,Pune,Eggetarian,more than 10 years,Other,3-4,more,neutral,5,3,fuck no,Vedang
+2025-09-24 12:17:36.367714,57,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,4,4,maybe,Vedang
+2025-08-01 00:54:12.367714,31,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,5,difficult,3,4,fuck no,Viraj
+2024-11-17 23:42:25.367714,29,Male,Pune,Other,more than 10 years,Other,5,more,neutral,3,3,maybe,Viraj
+2025-06-12 23:28:34.367714,34,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,5,neutral,3,4,maybe,Viraj
+2025-09-17 18:41:49.367714,27,Male,Pune,Other,Less than 1 year,Family Tradition,Never,Never,difficult,4,5,yes,Viraj
+2025-09-14 13:35:38.367714,18,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,easy,5,5,maybe,Viraj
+2025-08-13 06:27:58.367714,54,Female,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,5,4,maybe,Yash
+2025-04-22 12:30:14.367714,38,Male,Pune,Vegetarian,5-10 years,Health,Never,3-4,difficult,4,1,fuck no,Yash
+2025-03-25 01:06:16.367714,48,Male,Pune,Vegetarian,Less than 1 year,Other,5,3-4,easy,2,4,maybe,Yash
+2025-04-20 22:22:10.367714,64,Male,Pune,Eggetarian,Less than 1 year,Taste preference,1-2,more,neutral,3,3,maybe,Yash
+2024-12-25 18:02:11.367714,37,Male,Pune,Non-Vegetarian,1–5 years,Ethics/Religious Beliefs,Never,more,neutral,3,3,maybe,Yash
+2025-08-01 17:52:53.367714,20,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,1-2,easy,5,3,maybe,Tushar
+2025-03-27 16:30:04.367714,42,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,neutral,4,4,fuck no,Vedang
+2025-06-06 17:41:58.367714,49,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,neutral,5,3,fuck no,Vedang
+2025-01-06 03:21:38.367714,19,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,5,4,fuck no,Vedang
+2025-05-24 04:36:29.367714,25,Female,Pune,Vegetarian,Less than 1 year,Family Tradition,1-2,5,easy,3,3,yes,Yash
+2025-06-27 00:11:14.367714,48,Male,Pune,Vegan,Less than 1 year,Health,Never,more,easy,4,3,fuck no,Tushar
+2024-10-15 23:39:16.367714,50,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,easy,3,4,fuck no,Viraj
+2025-05-27 20:40:58.367714,19,Male,Pune,Vegetarian,more than 10 years,Health,Never,5,neutral,4,4,maybe,Yash
+2025-01-18 00:54:13.367714,29,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,more,easy,4,2,maybe,Viraj
+2025-04-19 03:18:14.367714,37,Female,Pune,Vegetarian,1–5 years,Family Tradition,more,more,neutral,5,5,fuck no,Vedang
+2024-11-26 03:57:01.367714,35,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,more,Never,neutral,3,3,fuck no,Viraj
+2025-08-18 13:02:49.367714,29,Female,Pune,Vegetarian,Less than 1 year,Taste preference,3-4,3-4,neutral,4,5,yes,Yash
+2025-02-09 03:12:23.367714,21,Female,Pune,Non-Vegetarian,more than 10 years,Health,more,more,neutral,3,5,fuck no,Viraj
+2025-09-03 10:39:19.367714,56,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,easy,3,4,fuck no,Viraj
+2025-02-18 17:18:36.367714,31,Male,Pune,Vegetarian,more than 10 years,Health,3-4,3-4,difficult,5,5,fuck no,Vedang
+2024-12-07 19:07:46.367714,40,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,more,neutral,5,4,fuck no,Tushar
+2025-07-10 09:52:40.367714,25,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,5,5,maybe,Viraj
+2024-10-30 16:14:53.367714,43,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,3,fuck no,Tushar
+2024-12-31 18:34:30.367714,45,Male,Pune,Vegetarian,1–5 years,Family Tradition,3-4,more,difficult,4,5,maybe,Viraj
+2024-10-03 17:59:57.367714,35,Male,Pune,Vegetarian,Less than 1 year,Other,1-2,3-4,neutral,3,3,maybe,Viraj
+2025-06-24 20:52:05.367714,40,Female,Pune,Eggetarian,more than 10 years,Health,Never,more,easy,4,4,fuck no,Yash
+2024-11-28 22:10:07.367714,59,Female,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,more,easy,4,4,maybe,Tushar
+2024-12-18 09:43:13.367714,36,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,easy,5,4,fuck no,Viraj
+2025-04-03 02:16:04.367714,53,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,4,4,fuck no,Yash
+2025-03-13 20:21:17.367714,36,Female,Pune,Vegetarian,1–5 years,Family Tradition,1-2,more,neutral,3,1,fuck no,Yash
+2025-04-15 11:32:02.367714,57,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,easy,2,1,maybe,Tushar
+2025-01-28 19:41:03.367714,20,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,5,easy,4,5,maybe,Yash
+2025-08-01 21:36:58.367714,46,Male,Pune,Non-Vegetarian,1–5 years,Health,Never,5,neutral,4,3,fuck no,Viraj
+2025-04-11 22:06:48.367714,59,Male,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,5,3,yes,Yash
+2025-01-17 02:50:01.367714,37,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,more,more,easy,3,2,maybe,Viraj
+2024-10-25 22:56:40.367714,55,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,more,neutral,2,5,fuck no,Viraj
+2025-08-11 16:01:11.367714,30,Female,Pune,Eggetarian,5-10 years,Health,Never,3-4,neutral,5,4,yes,Tushar
+2025-06-21 05:58:26.367714,19,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,5,3,maybe,Viraj
+2025-01-09 07:58:58.367714,44,Male,Pune,Other,more than 10 years,Health,3-4,more,easy,3,3,maybe,Viraj
+2025-09-12 01:37:06.367714,44,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,3-4,easy,5,3,fuck no,Yash
+2025-03-25 19:34:36.367714,47,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,easy,1,4,maybe,Viraj
+2024-12-11 04:19:34.367714,30,Female,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,3-4,difficult,4,3,fuck no,Yash
+2024-12-17 05:57:51.367714,46,Male,Pune,Vegetarian,more than 10 years,Taste preference,more,1-2,easy,5,3,fuck no,Vedang
+2025-08-19 11:57:35.367714,48,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,5,4,fuck no,Yash
+2024-12-07 13:13:43.367714,23,Female,Pune,Vegetarian,1–5 years,Taste preference,Never,more,easy,5,5,yes,Yash
+2024-12-25 05:34:37.367714,24,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,more,easy,5,3,maybe,Yash
+2025-09-08 08:37:04.367714,59,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,3,maybe,Tushar
+2025-08-22 06:48:36.367714,56,Female,Pune,Vegetarian,1–5 years,Other,1-2,3-4,difficult,3,3,fuck no,Tushar
+2025-01-11 18:34:12.367714,30,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,3-4,easy,1,5,fuck no,Yash
+2025-06-02 14:01:43.367714,64,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,1-2,neutral,3,5,yes,Yash
+2025-07-03 05:44:06.372169,21,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,1-2,more,neutral,3,2,yes,Viraj
+2025-08-15 03:52:02.372169,45,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,more,neutral,3,3,maybe,Yash
+2025-05-20 04:53:03.372169,30,Male,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,1-2,neutral,5,4,yes,Viraj
+2025-08-01 06:07:11.372604,59,Male,Pune,Non-Vegetarian,5-10 years,Other,3-4,more,easy,5,5,fuck no,Tushar
+2025-04-21 23:10:14.372604,27,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,1-2,neutral,4,4,fuck no,Tushar
+2025-02-14 01:08:36.372604,57,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,3-4,difficult,3,4,fuck no,Vedang
+2025-02-23 16:10:30.372604,65,Male,Pune,Eggetarian,Less than 1 year,Health,Never,3-4,easy,3,4,fuck no,Viraj
+2024-11-29 10:35:23.372604,44,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,2,5,yes,Viraj
+2025-08-12 18:38:55.372604,22,Male,Pune,Vegetarian,more than 10 years,Family Tradition,3-4,1-2,easy,3,3,maybe,Yash
+2025-03-03 23:51:34.372604,37,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,4,3,maybe,Viraj
+2025-03-06 13:57:48.372604,20,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,3,3,fuck no,Yash
+2024-11-09 23:27:10.372604,22,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,1-2,neutral,3,5,maybe,Vedang
+2025-09-25 18:27:32.372604,31,Female,Pune,Non-Vegetarian,5-10 years,Health,1-2,more,neutral,5,5,fuck no,Viraj
+2025-02-02 23:26:08.372604,38,Female,Pune,Vegetarian,1–5 years,Health,1-2,3-4,easy,4,5,maybe,Tushar
+2024-12-11 12:31:21.372604,41,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,difficult,5,4,maybe,Viraj
+2025-04-04 00:19:17.372604,40,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,3-4,5,neutral,4,3,yes,Yash
+2024-10-25 19:15:12.372604,62,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,1-2,easy,3,4,fuck no,Yash
+2025-05-11 17:53:50.372604,48,Female,Pune,Vegan,more than 10 years,Family Tradition,Never,more,easy,4,4,maybe,Yash
+2025-01-26 21:46:29.372604,19,Female,Pune,Vegetarian,Less than 1 year,Ethics/Religious Beliefs,5,more,neutral,3,4,fuck no,Yash
+2025-09-26 21:31:36.372604,26,Female,Pune,Vegetarian,1–5 years,Family Tradition,Never,more,easy,3,3,maybe,Yash
+2025-04-05 23:59:33.372604,45,Male,Pune,Other,more than 10 years,Taste preference,3-4,more,difficult,4,5,maybe,Tushar
+2025-06-08 16:54:20.372604,27,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,3-4,easy,5,3,fuck no,Tushar
+2025-09-03 22:40:41.372604,42,Female,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,5,4,fuck no,Yash
+2025-02-22 19:19:44.372604,55,Male,Pune,Eggetarian,more than 10 years,Health,1-2,5,easy,3,3,fuck no,Viraj
+2025-03-29 15:57:51.372604,52,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,5,3,fuck no,Tushar
+2025-05-29 09:28:19.372604,31,Female,Pune,Vegetarian,1–5 years,Family Tradition,3-4,more,difficult,4,5,maybe,Vedang
+2025-01-21 21:12:21.372604,48,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,easy,5,3,fuck no,Yash
+2025-08-20 12:07:16.372604,22,Male,Pune,Vegetarian,Less than 1 year,Other,Never,more,neutral,3,3,yes,Vedang
+2025-01-23 16:19:12.372604,22,Female,Pune,Vegetarian,Less than 1 year,Health,Never,3-4,difficult,4,4,maybe,Tushar
+2025-08-25 03:16:43.372604,31,Female,Pune,Vegetarian,1–5 years,Health,3-4,more,easy,3,4,fuck no,Vedang
+2025-01-26 14:55:36.372604,41,Male,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,easy,4,3,fuck no,Vedang
+2025-09-05 20:13:13.372604,58,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,5,easy,3,3,maybe,Yash
+2024-10-12 02:47:49.372604,18,Female,Pune,Non-Vegetarian,1–5 years,Other,Never,more,neutral,5,4,maybe,Yash
+2024-11-27 09:00:49.372604,20,Female,Pune,Vegetarian,more than 10 years,Other,3-4,1-2,easy,4,5,fuck no,Vedang
+2025-02-09 07:02:45.372604,65,Female,Pune,Non-Vegetarian,Less than 1 year,Other,3-4,more,easy,3,4,fuck no,Vedang
+2024-12-17 05:57:27.372604,57,Female,Pune,Vegan,1–5 years,Health,Never,more,neutral,1,1,fuck no,Vedang
+2025-05-17 12:10:49.372604,44,Male,Pune,Vegetarian,1–5 years,Health,Never,more,easy,5,4,fuck no,Yash
+2025-02-03 23:14:10.372604,46,Female,Pune,Vegetarian,Less than 1 year,Family Tradition,1-2,more,easy,4,4,fuck no,Yash
+2025-06-11 06:09:55.372604,30,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,easy,3,1,fuck no,Yash
+2024-12-27 18:04:00.372604,45,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,easy,3,4,yes,Yash
+2025-08-12 09:57:11.372604,47,Female,Pune,Eggetarian,more than 10 years,Taste preference,Never,more,neutral,5,5,yes,Tushar
+2024-10-22 19:16:36.372604,22,Female,Pune,Vegetarian,1–5 years,Health,Never,more,easy,4,5,fuck no,Vedang
+2024-10-01 19:46:20.372604,57,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,more,neutral,5,4,maybe,Yash
+2025-08-18 06:36:56.372604,19,Male,Pune,Vegetarian,more than 10 years,Health,Never,1-2,easy,5,4,yes,Yash
+2025-03-28 14:32:18.372604,18,Male,Pune,Non-Vegetarian,5-10 years,Ethics/Religious Beliefs,Never,1-2,neutral,5,4,maybe,Vedang
+2025-07-24 01:15:04.372604,34,Male,Pune,Non-Vegetarian,more than 10 years,Other,1-2,more,easy,5,3,maybe,Yash
+2025-02-21 04:24:32.372604,65,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,3-4,neutral,3,5,fuck no,Tushar
+2025-03-18 09:33:53.372604,65,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,5,neutral,5,3,maybe,Viraj
+2025-09-01 19:16:15.372604,57,Male,Pune,Vegetarian,5-10 years,Health,Never,more,easy,3,3,fuck no,Yash
+2025-01-01 17:04:23.372604,49,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,3,fuck no,Vedang
+2025-01-19 03:08:19.372604,37,Male,Pune,Vegetarian,Less than 1 year,Taste preference,5,more,difficult,4,4,yes,Viraj
+2025-02-16 16:50:14.372604,39,Male,Pune,Non-Vegetarian,Less than 1 year,Health,more,more,neutral,5,5,maybe,Tushar
+2025-05-27 02:49:56.372604,36,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,3-4,easy,4,4,maybe,Yash
+2025-08-22 14:04:18.372604,29,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,5,4,yes,Vedang
+2024-12-17 11:43:10.372604,40,Female,Pune,Other,Less than 1 year,Taste preference,Never,more,easy,5,5,maybe,Viraj
+2025-09-19 11:21:22.372604,34,Female,Pune,Vegetarian,1–5 years,Family Tradition,Never,more,easy,3,5,fuck no,Yash
+2025-06-05 21:03:33.372604,45,Male,Pune,Vegetarian,1–5 years,Health,Never,more,neutral,3,2,yes,Yash
+2024-11-29 00:37:40.372604,50,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,5,easy,3,1,fuck no,Tushar
+2025-07-03 21:27:03.372604,61,Male,Pune,Vegetarian,more than 10 years,Health,3-4,more,neutral,4,4,yes,Viraj
+2025-06-11 16:42:30.372604,45,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,5,easy,3,5,maybe,Viraj
+2025-01-13 15:37:25.372604,47,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,1-2,more,easy,4,2,yes,Yash
+2025-03-07 22:53:46.372604,32,Male,Pune,Non-Vegetarian,1–5 years,Health,5,more,easy,4,5,fuck no,Yash
+2025-06-09 13:00:11.372604,48,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,3,fuck no,Viraj
+2024-11-14 21:24:49.372604,55,Male,Pune,Non-Vegetarian,5-10 years,Family Tradition,Never,more,neutral,5,5,maybe,Viraj
+2024-10-09 03:39:12.372604,19,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,3,3,fuck no,Viraj
+2025-03-09 03:07:02.372604,51,Female,Pune,Vegetarian,5-10 years,Taste preference,1-2,more,neutral,4,4,fuck no,Vedang
+2025-05-11 11:48:02.372604,58,Female,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,difficult,3,4,fuck no,Yash
+2025-02-26 02:51:08.372604,37,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,5,neutral,4,5,maybe,Vedang
+2025-01-07 22:40:26.372604,64,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,5,easy,1,1,fuck no,Viraj
+2024-10-14 00:53:34.372604,53,Male,Pune,Vegetarian,more than 10 years,Health,3-4,1-2,difficult,5,5,yes,Viraj
+2025-06-06 05:09:49.372604,58,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,5,easy,4,4,fuck no,Yash
+2025-08-31 13:28:09.372604,46,Male,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,4,4,fuck no,Yash
+2025-09-15 10:36:18.372604,29,Male,Pune,Vegetarian,1–5 years,Family Tradition,3-4,5,neutral,5,1,fuck no,Vedang
+2025-05-22 08:49:09.372604,54,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,2,4,maybe,Yash
+2025-07-19 23:24:40.372604,34,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,easy,4,5,fuck no,Vedang
+2025-02-23 08:58:13.372604,39,Female,Pune,Non-Vegetarian,1–5 years,Health,more,more,difficult,1,2,yes,Vedang
+2025-07-17 17:32:03.372604,45,Male,Pune,Vegan,1–5 years,Taste preference,3-4,3-4,neutral,3,3,maybe,Yash
+2024-12-11 22:58:05.372604,21,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,more,easy,4,4,yes,Yash
+2025-06-16 05:28:07.372604,46,Male,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,1-2,more,easy,3,4,maybe,Viraj
+2025-03-04 20:18:43.372604,52,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,1-2,neutral,4,3,yes,Yash
+2024-11-03 23:02:51.372604,23,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,easy,1,3,fuck no,Viraj
+2025-08-31 03:53:33.372604,29,Male,Pune,Non-Vegetarian,5-10 years,Health,1-2,3-4,neutral,3,5,yes,Viraj
+2025-05-09 16:32:41.376147,37,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,neutral,3,5,fuck no,Vedang
+2025-03-14 18:57:11.376147,18,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,easy,3,3,fuck no,Yash
+2025-09-16 23:00:20.376147,54,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,3-4,3-4,neutral,1,5,maybe,Yash
+2025-04-12 11:44:48.376147,56,Male,Pune,Non-Vegetarian,1–5 years,Health,5,5,difficult,4,4,yes,Vedang
+2025-06-26 01:39:08.376147,41,Female,Pune,Vegetarian,more than 10 years,Health,Never,5,easy,5,5,yes,Yash
+2025-07-19 23:39:57.376147,24,Female,Pune,Vegetarian,Less than 1 year,Health,1-2,more,easy,3,3,fuck no,Viraj
+2025-07-13 15:29:15.376147,58,Female,Pune,Non-Vegetarian,Less than 1 year,Health,5,3-4,easy,1,4,maybe,Tushar
+2025-06-28 07:32:28.376147,38,Male,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,3,3,fuck no,Yash
+2025-06-10 11:52:08.376147,36,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,3-4,easy,3,3,fuck no,Yash
+2025-08-26 13:22:16.376147,52,Male,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,5,difficult,4,3,maybe,Yash
+2025-07-31 02:59:56.376147,46,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,3-4,1-2,easy,4,3,maybe,Viraj
+2024-12-31 02:59:27.376147,54,Male,Pune,Vegetarian,5-10 years,Health,Never,3-4,neutral,5,5,maybe,Yash
+2024-10-03 01:38:08.376147,28,Female,Pune,Non-Vegetarian,5-10 years,Health,1-2,more,neutral,3,5,fuck no,Vedang
+2025-05-27 00:25:03.376147,48,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,5,neutral,1,3,maybe,Yash
+2024-11-19 13:23:27.376147,40,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,5,fuck no,Viraj
+2025-05-14 11:55:36.376147,43,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,easy,4,3,fuck no,Vedang
+2024-10-13 15:41:00.376147,40,Female,Pune,Non-Vegetarian,Less than 1 year,Health,5,more,easy,5,4,maybe,Yash
+2025-09-29 09:07:56.376796,51,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,3,2,yes,Tushar
+2024-11-03 20:05:28.376796,47,Male,Pune,Eggetarian,more than 10 years,Health,Never,more,easy,5,5,fuck no,Vedang
+2025-03-23 07:20:30.376796,53,Male,Pune,Non-Vegetarian,1–5 years,Health,Never,more,neutral,4,5,fuck no,Vedang
+2025-08-26 20:25:01.376796,21,Male,Pune,Vegetarian,1–5 years,Other,1-2,more,easy,4,5,maybe,Yash
+2025-09-26 00:21:25.376796,48,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,easy,3,4,fuck no,Vedang
+2025-09-16 19:01:01.376796,29,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,3-4,easy,3,2,fuck no,Yash
+2025-06-04 08:17:47.376796,19,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,neutral,1,5,maybe,Yash
+2025-04-21 09:04:00.376796,35,Female,Pune,Vegetarian,Less than 1 year,Taste preference,5,more,easy,3,3,maybe,Yash
+2025-09-04 16:13:58.376796,56,Female,Pune,Vegetarian,1–5 years,Health,3-4,Never,difficult,3,2,fuck no,Yash
+2024-10-24 18:57:03.376796,43,Male,Pune,Eggetarian,1–5 years,Health,3-4,3-4,easy,3,4,maybe,Tushar
+2024-12-05 07:59:48.376796,65,Male,Pune,Vegetarian,1–5 years,Health,Never,more,easy,3,4,yes,Yash
+2025-06-19 04:45:38.376796,53,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,3-4,neutral,5,3,yes,Tushar
+2024-12-07 00:59:44.376796,43,Male,Pune,Vegetarian,1–5 years,Taste preference,1-2,more,neutral,5,3,maybe,Tushar
+2025-09-19 18:09:29.376796,22,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,more,easy,2,5,fuck no,Vedang
+2025-06-07 06:49:36.376796,65,Female,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,5,4,fuck no,Viraj
+2025-08-19 09:01:14.376796,31,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,4,3,maybe,Yash
+2025-01-11 23:48:59.376796,36,Female,Pune,Other,more than 10 years,Health,5,more,easy,5,4,maybe,Viraj
+2025-09-26 00:52:05.376796,21,Male,Pune,Vegetarian,1–5 years,Health,3-4,more,neutral,5,5,maybe,Yash
+2025-01-12 03:18:40.376796,57,Male,Pune,Eggetarian,Less than 1 year,Health,1-2,1-2,neutral,4,5,fuck no,Vedang
+2024-10-07 01:18:07.376796,32,Female,Pune,Vegetarian,more than 10 years,Health,Never,more,neutral,3,3,fuck no,Vedang
+2025-04-23 00:56:31.376796,52,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,4,5,maybe,Vedang
+2024-10-14 07:29:16.376796,56,Male,Pune,Vegetarian,1–5 years,Health,1-2,more,easy,4,2,fuck no,Yash
+2025-04-08 18:13:42.376796,24,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,easy,3,4,fuck no,Viraj
+2025-08-24 15:01:59.376796,41,Female,Pune,Vegetarian,Less than 1 year,Health,5,3-4,easy,3,4,yes,Yash
+2025-04-05 22:28:14.376796,39,Female,Pune,Vegetarian,Less than 1 year,Taste preference,5,more,easy,4,3,yes,Vedang
+2025-01-08 15:35:43.376796,59,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,5,easy,5,1,maybe,Viraj
+2025-06-12 00:24:03.376796,56,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,3-4,easy,5,4,maybe,Viraj
+2025-07-25 17:11:11.376796,41,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,more,neutral,4,3,maybe,Yash
+2025-05-12 15:21:28.376796,49,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,4,3,maybe,Viraj
+2025-01-22 04:35:07.376796,24,Male,Pune,Vegan,Less than 1 year,Taste preference,1-2,more,easy,5,4,fuck no,Vedang
+2025-08-08 08:57:51.376796,60,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,easy,4,4,yes,Yash
+2025-05-02 06:44:25.376796,59,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,easy,2,4,fuck no,Vedang
+2025-07-25 18:53:36.376796,37,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,1-2,neutral,5,1,fuck no,Yash
+2025-08-01 22:46:55.376796,51,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,more,5,easy,3,5,maybe,Tushar
+2025-06-27 07:25:35.376796,54,Female,Pune,Vegetarian,Less than 1 year,Taste preference,5,3-4,neutral,4,5,maybe,Tushar
+2025-02-13 03:15:36.376796,58,Male,Pune,Non-Vegetarian,1–5 years,Health,5,more,neutral,5,2,maybe,Viraj
+2025-09-09 07:18:13.376796,28,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,3-4,neutral,3,4,maybe,Vedang
+2025-01-06 10:28:58.376796,63,Prefer not to say,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,3,2,fuck no,Vedang
+2025-06-14 16:53:09.376796,38,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,difficult,4,5,maybe,Vedang
+2025-04-06 11:19:48.376796,20,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,3-4,easy,4,1,yes,Yash
+2025-03-15 10:13:18.376796,61,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,3,3,maybe,Viraj
+2024-12-19 02:24:50.376796,30,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,5,easy,3,3,maybe,Viraj
+2024-10-02 02:40:01.376796,51,Female,Pune,Other,Less than 1 year,Taste preference,5,more,easy,3,4,maybe,Viraj
+2025-02-27 17:38:34.376796,33,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,5,neutral,3,2,fuck no,Yash
+2024-12-22 17:45:12.376796,29,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,more,more,neutral,3,5,fuck no,Vedang
+2025-04-21 06:25:52.376796,45,Male,Pune,Vegetarian,more than 10 years,Taste preference,more,3-4,easy,4,5,maybe,Tushar
+2025-05-16 10:17:47.376796,65,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,4,4,fuck no,Yash
+2024-10-19 02:39:54.376796,25,Male,Pune,Non-Vegetarian,1–5 years,Health,Never,more,easy,3,4,fuck no,Tushar
+2025-01-25 04:42:21.376796,41,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,1-2,neutral,5,4,fuck no,Viraj
+2025-06-20 06:09:03.376796,47,Female,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,more,neutral,4,4,fuck no,Viraj
+2025-09-03 03:50:36.379138,26,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,3-4,easy,3,4,fuck no,Viraj
+2025-05-13 20:43:46.379138,46,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,more,more,neutral,3,3,fuck no,Yash
+2025-01-16 06:21:29.379138,50,Male,Pune,Vegetarian,more than 10 years,Family Tradition,Never,3-4,neutral,5,5,maybe,Viraj
+2025-01-21 13:03:23.379138,37,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,Never,more,neutral,5,4,maybe,Viraj
+2025-01-04 06:33:31.379138,44,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,3,3,yes,Vedang
+2024-11-13 11:35:21.379138,59,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,5,fuck no,Viraj
+2024-11-17 12:04:28.379138,40,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,4,4,fuck no,Vedang
+2025-04-22 17:39:10.379138,46,Male,Pune,Other,more than 10 years,Health,1-2,1-2,easy,5,5,yes,Vedang
+2025-05-27 10:08:38.379138,30,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,4,4,yes,Tushar
+2024-11-26 12:12:13.379138,28,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,3-4,easy,4,3,maybe,Yash
+2025-08-11 11:41:51.379138,32,Female,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,1-2,3-4,difficult,3,3,fuck no,Tushar
+2025-05-06 15:08:12.379138,23,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,5,easy,5,3,maybe,Yash
+2025-05-05 21:38:25.379138,46,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,easy,5,5,fuck no,Yash
+2025-03-05 01:33:14.379138,19,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,3,3,fuck no,Yash
+2024-11-15 05:58:07.379138,39,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,5,5,neutral,3,5,yes,Yash
+2025-05-07 17:57:33.379138,58,Male,Pune,Non-Vegetarian,5-10 years,Family Tradition,Never,3-4,difficult,3,4,yes,Tushar
+2025-02-21 08:11:26.379138,24,Female,Pune,Vegetarian,1–5 years,Health,Never,more,difficult,4,3,maybe,Vedang
+2024-11-12 07:56:41.379138,32,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,more,easy,4,5,fuck no,Tushar
+2025-05-28 03:10:16.379138,45,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,5,neutral,3,3,maybe,Vedang
+2024-12-12 01:35:19.379138,46,Female,Pune,Eggetarian,1–5 years,Taste preference,more,1-2,easy,3,2,fuck no,Yash
+2025-05-22 18:42:02.379138,53,Female,Pune,Vegetarian,more than 10 years,Other,1-2,more,easy,4,4,yes,Viraj
+2025-03-24 02:46:57.379138,21,Male,Pune,Vegetarian,1–5 years,Other,Never,more,neutral,4,3,fuck no,Tushar
+2025-02-25 03:40:02.379138,48,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,easy,4,3,fuck no,Vedang
+2025-07-05 11:18:42.379138,49,Prefer not to say,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,1,5,maybe,Vedang
+2025-07-30 12:51:37.379138,58,Female,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,more,difficult,3,3,fuck no,Yash
+2025-09-09 17:22:09.379138,58,Female,Pune,Vegetarian,5-10 years,Taste preference,3-4,3-4,neutral,5,5,maybe,Viraj
+2025-02-14 05:00:11.379138,35,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,5,4,yes,Viraj
+2025-01-05 17:31:32.379138,28,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,5,3,maybe,Yash
+2025-03-03 08:28:13.379138,29,Male,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,easy,1,4,fuck no,Vedang
+2025-09-14 09:50:32.379138,44,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,more,neutral,3,4,fuck no,Yash
+2024-11-12 13:17:00.379138,30,Female,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,4,4,maybe,Viraj
+2024-10-26 05:02:24.379138,63,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,4,1,maybe,Viraj
+2025-04-11 19:32:26.379138,22,Male,Pune,Vegetarian,Less than 1 year,Family Tradition,3-4,5,neutral,3,5,yes,Yash
+2024-11-07 19:50:03.379138,21,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,neutral,5,4,fuck no,Viraj
+2025-01-25 08:14:57.379138,44,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,more,easy,4,3,yes,Yash
+2025-07-13 18:23:06.379138,29,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,neutral,3,5,yes,Vedang
+2025-07-15 23:33:38.379138,41,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,difficult,5,2,maybe,Tushar
+2025-09-13 10:08:19.379138,32,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,easy,3,3,maybe,Vedang
+2025-07-08 16:15:47.379138,25,Male,Pune,Vegetarian,Less than 1 year,Family Tradition,Never,5,easy,3,4,maybe,Yash
+2025-06-03 21:15:18.379138,50,Male,Pune,Eggetarian,more than 10 years,Taste preference,Never,more,neutral,4,4,yes,Vedang
+2025-03-22 20:27:52.379138,62,Male,Pune,Vegetarian,Less than 1 year,Other,3-4,5,easy,1,4,yes,Vedang
+2024-12-23 18:00:44.379138,38,Female,Pune,Vegetarian,1–5 years,Family Tradition,1-2,1-2,easy,1,4,fuck no,Yash
+2024-12-02 15:11:08.379138,31,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,more,easy,3,4,fuck no,Yash
+2024-11-12 05:51:01.379138,46,Male,Pune,Vegetarian,1–5 years,Health,more,more,difficult,5,2,yes,Yash
+2025-07-13 19:26:37.379138,51,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,1-2,easy,4,3,fuck no,Yash
+2025-04-22 14:09:29.379138,22,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,3,5,maybe,Tushar
+2025-02-24 12:11:20.379138,57,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,difficult,3,5,fuck no,Viraj
+2025-09-17 04:49:04.379138,31,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,3,4,maybe,Viraj
+2024-12-29 13:44:01.379138,56,Female,Pune,Eggetarian,1–5 years,Family Tradition,1-2,3-4,neutral,4,3,fuck no,Viraj
+2025-02-12 10:10:57.379138,24,Female,Pune,Vegetarian,1–5 years,Health,3-4,more,easy,4,4,yes,Yash
+2024-11-30 04:54:37.379138,48,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,1-2,difficult,5,3,fuck no,Viraj
+2025-01-02 12:29:52.379138,18,Female,Pune,Vegetarian,1–5 years,Family Tradition,1-2,more,neutral,5,4,yes,Yash
+2025-03-08 16:15:41.379138,26,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,easy,4,4,maybe,Yash
+2024-12-03 16:15:20.379138,27,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,3-4,neutral,4,4,maybe,Yash
+2024-11-04 13:10:17.379138,60,Female,Pune,Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,more,easy,3,4,maybe,Viraj
+2025-08-16 05:10:59.379138,46,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,more,neutral,4,1,yes,Viraj
+2025-07-26 23:05:33.379138,45,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,1-2,neutral,3,5,yes,Vedang
+2025-02-16 00:49:05.379138,41,Male,Pune,Vegetarian,Less than 1 year,Health,5,more,neutral,3,5,fuck no,Vedang
+2025-09-02 01:29:36.379138,44,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,5,neutral,4,3,yes,Yash
+2025-06-17 09:16:14.379138,45,Male,Pune,Vegetarian,more than 10 years,Health,3-4,more,easy,4,4,yes,Vedang
+2025-08-10 04:58:49.379138,35,Male,Pune,Vegetarian,5-10 years,Other,1-2,more,difficult,3,5,maybe,Vedang
+2025-03-15 21:06:38.379138,19,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,more,neutral,4,3,fuck no,Viraj
+2025-08-05 07:26:49.379138,21,Female,Pune,Eggetarian,Less than 1 year,Other,1-2,3-4,neutral,2,3,fuck no,Yash
+2025-03-16 19:52:39.379138,61,Male,Pune,Vegetarian,1–5 years,Health,5,3-4,easy,3,4,maybe,Vedang
+2024-12-29 18:33:39.379138,47,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,more,5,neutral,4,3,fuck no,Tushar
+2025-09-16 00:14:13.379138,40,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,5,easy,4,3,maybe,Tushar
+2025-04-07 18:16:09.379138,19,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,5,neutral,1,5,fuck no,Viraj
+2025-09-25 09:45:32.379138,23,Female,Pune,Non-Vegetarian,more than 10 years,Health,5,more,difficult,3,3,maybe,Viraj
+2024-11-17 09:39:54.379138,45,Female,Pune,Non-Vegetarian,Less than 1 year,Other,Never,3-4,easy,3,4,fuck no,Viraj
+2025-04-11 23:06:11.379138,55,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,easy,2,4,fuck no,Yash
+2025-09-02 20:48:28.379138,46,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,5,neutral,3,3,maybe,Yash
+2025-02-02 08:14:33.379138,27,Male,Pune,Non-Vegetarian,1–5 years,Health,3-4,3-4,neutral,5,4,fuck no,Yash
+2025-07-23 05:03:12.379138,34,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,difficult,4,5,maybe,Vedang
+2025-09-14 21:46:24.379138,23,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,3-4,easy,4,5,maybe,Tushar
+2024-11-06 15:51:41.379138,35,Male,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,easy,3,4,maybe,Viraj
+2025-06-10 02:18:16.379138,64,Male,Pune,Vegetarian,5-10 years,Other,1-2,more,easy,5,3,maybe,Yash
+2025-06-27 11:42:49.379138,41,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,4,3,maybe,Yash
+2025-03-04 05:19:49.379138,41,Male,Pune,Vegetarian,5-10 years,Other,1-2,more,easy,5,1,fuck no,Viraj
+2024-11-25 18:41:08.379138,28,Male,Pune,Non-Vegetarian,1–5 years,Health,3-4,more,easy,3,3,maybe,Yash
+2025-01-31 18:25:40.379138,41,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,3-4,easy,5,4,fuck no,Vedang
+2025-01-13 19:56:47.379138,51,Male,Pune,Vegetarian,1–5 years,Health,5,3-4,neutral,4,1,fuck no,Vedang
+2025-03-16 21:30:22.379138,53,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,3-4,neutral,1,5,maybe,Yash
+2025-07-31 08:25:31.379138,44,Male,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,difficult,4,5,yes,Vedang
+2024-12-13 21:15:28.379138,36,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,difficult,3,3,fuck no,Tushar
+2025-02-25 03:43:34.379138,45,Female,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,5,difficult,4,1,fuck no,Viraj
+2025-06-07 12:33:42.379138,20,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,5,5,yes,Viraj
+2025-05-26 22:17:34.379138,41,Male,Pune,Eggetarian,1–5 years,Family Tradition,Never,more,difficult,5,1,yes,Yash
+2025-03-07 16:56:24.379138,53,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,5,5,maybe,Yash
+2025-02-27 22:14:27.379138,39,Male,Pune,Vegetarian,1–5 years,Other,1-2,3-4,neutral,4,3,maybe,Yash
+2025-07-02 23:21:14.379138,32,Male,Pune,Non-Vegetarian,1–5 years,Other,more,3-4,neutral,5,3,maybe,Viraj
+2024-10-22 10:32:51.379138,20,Female,Pune,Eggetarian,5-10 years,Health,5,more,neutral,4,2,yes,Viraj
+2025-01-19 13:42:34.379138,22,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,1-2,neutral,4,4,fuck no,Viraj
+2025-06-19 08:21:23.379138,60,Female,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,1-2,difficult,5,4,maybe,Tushar
+2025-07-19 20:11:01.379138,24,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,3-4,neutral,4,3,maybe,Yash
+2025-07-15 08:49:10.379138,44,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,easy,4,3,yes,Yash
+2025-04-06 19:55:06.379138,38,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,3-4,easy,4,4,yes,Yash
+2025-07-15 17:17:33.379138,59,Female,Pune,Vegetarian,more than 10 years,Other,3-4,more,neutral,2,3,yes,Yash
+2025-06-17 09:09:18.379138,55,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,easy,3,4,fuck no,Viraj
+2025-09-08 13:34:29.379138,21,Male,Pune,Vegetarian,more than 10 years,Health,Never,more,difficult,5,4,maybe,Vedang
+2025-04-17 18:33:48.379138,56,Male,Pune,Eggetarian,5-10 years,Family Tradition,3-4,3-4,easy,3,4,yes,Tushar
+2025-07-20 19:11:33.379138,22,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,3-4,neutral,3,4,fuck no,Viraj
+2025-06-27 17:09:25.379138,56,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,1-2,difficult,5,5,fuck no,Viraj
+2025-09-01 04:58:02.379138,41,Female,Pune,Eggetarian,Less than 1 year,Family Tradition,1-2,3-4,neutral,3,4,maybe,Viraj
+2025-05-11 07:02:48.379138,41,Female,Pune,Eggetarian,1–5 years,Other,Never,more,easy,4,4,maybe,Yash
+2025-01-02 03:49:11.379138,24,Female,Pune,Non-Vegetarian,1–5 years,Other,Never,3-4,neutral,5,4,fuck no,Yash
+2025-06-06 22:52:11.379138,43,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,3-4,neutral,2,3,maybe,Viraj
+2025-05-17 14:44:29.379138,32,Male,Pune,Vegetarian,more than 10 years,Family Tradition,5,more,easy,1,5,maybe,Viraj
+2024-11-01 12:04:16.379138,49,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,5,easy,3,3,maybe,Vedang
+2025-06-28 04:49:57.379138,41,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,5,easy,3,5,fuck no,Yash
+2025-04-10 12:52:44.379138,21,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,5,more,neutral,1,3,fuck no,Yash
+2025-07-29 02:54:58.379138,35,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,3-4,more,easy,5,1,fuck no,Viraj
+2025-09-01 09:07:57.379138,39,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,1-2,easy,3,3,yes,Yash
+2025-02-20 06:51:21.379138,34,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,3,4,maybe,Viraj
+2025-08-18 03:56:17.379138,41,Female,Pune,Vegan,more than 10 years,Taste preference,1-2,more,easy,4,3,fuck no,Viraj
+2025-08-02 22:31:27.379138,30,Female,Pune,Non-Vegetarian,5-10 years,Family Tradition,more,3-4,difficult,5,3,fuck no,Yash
+2025-07-23 17:47:41.379138,20,Male,Pune,Non-Vegetarian,1–5 years,Health,5,5,easy,3,5,fuck no,Viraj
+2025-05-31 22:18:12.379138,54,Male,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,1-2,5,neutral,3,3,maybe,Vedang
+2025-07-15 11:26:29.379138,36,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,5,more,neutral,5,5,fuck no,Viraj
+2025-08-14 19:30:16.379138,28,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,Never,easy,1,3,yes,Viraj
+2025-01-01 02:43:38.379138,50,Female,Pune,Vegetarian,Less than 1 year,Health,Never,3-4,neutral,4,5,fuck no,Viraj
+2024-10-19 20:14:44.379138,23,Male,Pune,Non-Vegetarian,1–5 years,Family Tradition,Never,more,difficult,4,4,maybe,Yash
+2025-05-15 16:45:39.379138,42,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,neutral,3,4,yes,Yash
+2025-06-24 07:14:59.379138,40,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,neutral,4,3,maybe,Tushar
+2025-09-03 02:30:57.379138,50,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,neutral,3,5,maybe,Yash
+2025-06-21 09:29:21.379138,31,Male,Pune,Vegetarian,more than 10 years,Health,1-2,5,neutral,5,4,yes,Yash
+2025-07-30 20:23:43.379138,44,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,5,3-4,difficult,3,4,maybe,Yash
+2025-09-10 00:47:21.379138,55,Male,Pune,Vegetarian,1–5 years,Ethics/Religious Beliefs,3-4,more,easy,2,4,fuck no,Viraj
+2025-04-25 13:41:40.379138,38,Female,Pune,Vegetarian,more than 10 years,Family Tradition,3-4,1-2,easy,3,3,yes,Yash
+2025-09-04 07:49:36.379138,37,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,more,1-2,easy,2,3,yes,Tushar
+2025-05-17 21:19:35.379138,41,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,5,1,fuck no,Vedang
+2025-01-25 15:47:45.379138,24,Female,Pune,Vegetarian,more than 10 years,Other,Never,5,difficult,3,3,yes,Yash
+2025-05-08 14:41:02.379138,24,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,3,2,maybe,Tushar
+2024-10-06 04:38:41.379138,44,Male,Pune,Vegetarian,5-10 years,Health,Never,more,difficult,4,4,fuck no,Viraj
+2025-06-20 05:37:23.379138,46,Female,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,more,neutral,3,4,fuck no,Vedang
+2025-04-29 21:30:32.379138,36,Male,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,3,3,fuck no,Viraj
+2025-09-07 13:50:03.379138,44,Female,Pune,Other,1–5 years,Taste preference,1-2,more,neutral,2,4,fuck no,Tushar
+2025-01-28 18:57:07.379138,46,Male,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,neutral,4,3,yes,Yash
+2024-10-25 05:23:27.379138,58,Male,Pune,Eggetarian,1–5 years,Taste preference,1-2,more,neutral,1,4,fuck no,Viraj
+2024-11-08 22:50:27.379138,29,Male,Pune,Vegetarian,Less than 1 year,Taste preference,3-4,more,neutral,5,2,fuck no,Yash
+2025-01-19 00:01:02.379138,57,Male,Pune,Vegetarian,more than 10 years,Taste preference,5,1-2,neutral,3,4,maybe,Yash
+2025-09-29 09:33:10.379138,34,Female,Pune,Vegetarian,more than 10 years,Family Tradition,more,3-4,neutral,5,4,fuck no,Yash
+2025-08-06 16:10:36.379138,19,Male,Pune,Vegan,Less than 1 year,Taste preference,1-2,more,easy,1,5,fuck no,Vedang
+2025-04-24 08:14:31.379138,23,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,3,5,fuck no,Viraj
+2025-07-25 05:12:51.379138,50,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,1-2,easy,3,4,maybe,Yash
+2025-08-04 09:14:04.385473,24,Female,Pune,Vegetarian,more than 10 years,Taste preference,1-2,3-4,easy,5,5,fuck no,Viraj
+2024-10-31 14:24:19.385473,44,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,5,more,neutral,1,4,fuck no,Yash
+2024-11-25 09:04:09.385473,63,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,3-4,easy,3,3,fuck no,Vedang
+2025-03-03 12:00:08.385473,26,Male,Pune,Eggetarian,more than 10 years,Family Tradition,Never,3-4,neutral,4,3,yes,Yash
+2025-08-17 16:39:13.385473,37,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,neutral,4,3,maybe,Viraj
+2025-01-20 13:07:07.385473,40,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,3-4,more,neutral,4,3,fuck no,Viraj
+2024-12-23 08:15:18.385950,57,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,3-4,easy,4,4,fuck no,Viraj
+2025-08-25 18:14:49.385950,58,Male,Pune,Non-Vegetarian,Less than 1 year,Other,more,more,easy,4,3,maybe,Viraj
+2025-05-13 18:15:41.385950,49,Female,Pune,Vegetarian,more than 10 years,Health,more,3-4,easy,3,4,fuck no,Viraj
+2025-07-05 16:29:31.385950,24,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,3-4,easy,5,3,fuck no,Viraj
+2025-02-10 01:30:39.385950,48,Female,Pune,Vegetarian,Less than 1 year,Health,Never,3-4,easy,3,5,maybe,Yash
+2025-01-09 07:21:34.385950,50,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,5,neutral,4,3,yes,Tushar
+2025-03-06 02:03:22.386507,27,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,more,neutral,1,5,fuck no,Vedang
+2025-02-01 18:28:55.386507,45,Male,Pune,Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,4,3,fuck no,Yash
+2025-01-31 14:39:37.386507,52,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,5,easy,2,4,maybe,Viraj
+2025-05-30 08:21:56.386507,59,Male,Pune,Vegetarian,Less than 1 year,Health,5,more,easy,4,3,fuck no,Tushar
+2025-03-27 09:50:41.386507,26,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,1-2,easy,5,4,maybe,Yash
+2024-10-23 01:11:29.386507,25,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,3-4,neutral,5,3,yes,Viraj
+2024-10-15 21:42:50.386507,47,Male,Pune,Vegetarian,1–5 years,Health,1-2,5,neutral,4,4,maybe,Yash
+2025-06-15 12:11:48.386507,54,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,5,easy,4,4,yes,Yash
+2025-03-29 13:20:31.386507,63,Female,Pune,Non-Vegetarian,1–5 years,Health,5,more,neutral,5,4,maybe,Viraj
+2025-05-17 17:08:46.386507,65,Female,Pune,Non-Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,3-4,easy,4,3,fuck no,Yash
+2025-03-30 15:40:26.386507,27,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,5,3-4,difficult,4,5,maybe,Viraj
+2025-06-05 04:33:05.386507,44,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,4,5,yes,Yash
+2025-02-27 13:58:34.386507,25,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,5,easy,3,4,fuck no,Yash
+2024-10-26 06:41:56.386507,44,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,3-4,neutral,3,2,fuck no,Tushar
+2025-01-05 21:58:54.386507,27,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,easy,3,5,fuck no,Tushar
+2025-01-10 14:50:20.386507,42,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,5,neutral,4,3,maybe,Vedang
+2025-03-03 00:27:53.386507,33,Male,Pune,Vegetarian,1–5 years,Health,3-4,more,neutral,3,4,yes,Yash
+2025-09-18 23:09:41.386507,63,Female,Pune,Vegetarian,more than 10 years,Taste preference,more,1-2,easy,5,5,maybe,Vedang
+2025-03-01 02:10:51.386507,55,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,more,difficult,5,5,maybe,Yash
+2024-10-25 17:25:21.386507,48,Female,Pune,Non-Vegetarian,more than 10 years,Health,5,more,easy,4,5,yes,Yash
+2025-06-24 13:50:03.386507,24,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,easy,3,2,maybe,Yash
+2024-12-08 09:17:12.387756,65,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,more,neutral,3,5,yes,Yash
+2024-11-02 07:08:24.387756,44,Female,Pune,Vegetarian,Less than 1 year,Health,3-4,more,neutral,4,3,yes,Vedang
+2025-08-06 20:24:58.387756,49,Male,Pune,Vegan,1–5 years,Taste preference,Never,more,difficult,5,3,fuck no,Yash
+2025-07-12 03:02:50.387756,40,Male,Pune,Vegetarian,1–5 years,Other,Never,more,easy,4,4,fuck no,Tushar
+2025-02-04 23:31:48.387756,37,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,more,more,easy,3,4,fuck no,Yash
+2025-01-13 08:02:38.387756,34,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,2,maybe,Viraj
+2025-06-17 23:21:15.387756,46,Female,Pune,Vegetarian,5-10 years,Taste preference,5,3-4,neutral,4,3,yes,Vedang
+2025-04-06 06:02:19.387756,25,Male,Pune,Vegetarian,more than 10 years,Health,3-4,3-4,easy,3,3,fuck no,Yash
+2025-01-13 19:40:28.387756,44,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,more,difficult,5,3,fuck no,Yash
+2025-02-09 13:49:36.387756,27,Prefer not to say,Pune,Eggetarian,1–5 years,Taste preference,1-2,more,easy,4,4,maybe,Viraj
+2025-01-03 05:44:15.387756,65,Male,Pune,Vegetarian,1–5 years,Family Tradition,Never,5,easy,4,5,fuck no,Viraj
+2025-02-19 11:28:50.387756,42,Male,Pune,Other,more than 10 years,Health,1-2,1-2,easy,3,5,maybe,Yash
+2024-11-30 06:02:50.387756,48,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,neutral,4,5,maybe,Yash
+2025-02-02 01:06:26.387756,54,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,4,4,maybe,Yash
+2025-05-19 21:00:41.387756,65,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,more,neutral,5,3,yes,Viraj
+2024-11-29 13:25:51.387756,54,Male,Pune,Non-Vegetarian,1–5 years,Family Tradition,1-2,1-2,easy,5,2,yes,Yash
+2025-04-22 02:35:53.387756,30,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,3,3,maybe,Viraj
+2025-04-29 23:29:17.387756,38,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,Never,more,neutral,4,5,maybe,Yash
+2025-02-02 10:36:34.387756,24,Male,Pune,Vegetarian,1–5 years,Family Tradition,Never,1-2,neutral,5,3,maybe,Yash
+2025-07-14 19:00:50.387756,52,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,1-2,easy,5,4,fuck no,Viraj
+2025-02-27 05:00:04.387756,60,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,4,maybe,Yash
+2025-05-22 07:48:47.387756,55,Prefer not to say,Pune,Vegetarian,1–5 years,Family Tradition,3-4,5,difficult,4,3,fuck no,Yash
+2025-07-16 20:58:38.387756,55,Male,Pune,Non-Vegetarian,1–5 years,Other,Never,5,easy,5,5,fuck no,Tushar
+2024-11-21 03:06:53.387756,40,Male,Pune,Non-Vegetarian,5-10 years,Health,Never,more,easy,4,3,maybe,Yash
+2025-07-06 09:14:13.387756,60,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,3-4,neutral,3,1,fuck no,Vedang
+2025-02-19 23:50:36.387756,39,Male,Pune,Non-Vegetarian,5-10 years,Other,more,more,difficult,4,5,fuck no,Yash
+2025-01-02 22:36:15.387756,18,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,4,4,fuck no,Yash
+2025-08-09 10:19:32.387756,35,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,3-4,3-4,neutral,3,3,yes,Yash
+2024-11-22 16:37:42.387756,50,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,3-4,5,easy,3,3,fuck no,Viraj
+2024-12-15 01:21:02.387756,19,Female,Pune,Vegetarian,5-10 years,Health,5,1-2,easy,3,4,fuck no,Viraj
+2024-10-17 23:42:51.387756,27,Female,Pune,Non-Vegetarian,1–5 years,Other,more,more,easy,5,1,fuck no,Vedang
+2024-11-12 20:06:43.387756,33,Male,Pune,Vegetarian,Less than 1 year,Family Tradition,1-2,5,neutral,3,4,maybe,Tushar
+2024-10-17 21:13:58.387756,26,Female,Pune,Vegetarian,more than 10 years,Health,1-2,5,easy,1,4,fuck no,Tushar
+2025-05-11 10:17:32.387756,65,Male,Pune,Other,1–5 years,Taste preference,Never,5,easy,5,4,maybe,Viraj
+2025-06-15 17:08:50.387756,52,Male,Pune,Eggetarian,Less than 1 year,Health,3-4,more,easy,4,4,yes,Tushar
+2025-06-15 01:26:05.387756,21,Male,Pune,Eggetarian,Less than 1 year,Family Tradition,3-4,3-4,neutral,3,3,fuck no,Vedang
+2025-09-10 02:00:07.387756,44,Female,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,5,easy,4,3,maybe,Viraj
+2025-01-25 09:52:32.387756,40,Male,Pune,Non-Vegetarian,1–5 years,Other,1-2,5,easy,5,3,maybe,Yash
+2024-12-15 21:34:11.387756,48,Male,Pune,Non-Vegetarian,1–5 years,Other,1-2,3-4,easy,5,3,fuck no,Yash
+2025-07-22 13:57:44.387756,54,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,5,3-4,neutral,3,3,maybe,Viraj
+2025-03-12 10:19:19.387756,25,Female,Pune,Vegetarian,more than 10 years,Health,Never,3-4,neutral,4,4,maybe,Vedang
+2025-09-21 14:07:13.387756,60,Male,Pune,Vegan,more than 10 years,Health,Never,5,neutral,4,4,maybe,Yash
+2025-04-11 02:53:32.387756,41,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,more,neutral,1,4,maybe,Viraj
+2025-03-11 12:14:26.387756,55,Male,Pune,Eggetarian,more than 10 years,Health,3-4,more,neutral,5,4,fuck no,Yash
+2025-06-17 01:58:40.387756,58,Female,Pune,Vegan,Less than 1 year,Taste preference,1-2,1-2,neutral,3,4,fuck no,Yash
+2025-05-31 15:53:06.387756,24,Female,Pune,Vegetarian,more than 10 years,Other,Never,5,easy,5,5,fuck no,Tushar
+2025-03-14 18:10:49.387756,29,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,5,neutral,3,4,fuck no,Viraj
+2025-07-16 17:10:13.387756,37,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,easy,4,5,maybe,Yash
+2025-08-11 21:07:02.387756,52,Male,Pune,Vegetarian,1–5 years,Health,1-2,more,neutral,3,3,maybe,Yash
+2025-01-13 16:57:20.387756,41,Male,Pune,Eggetarian,1–5 years,Taste preference,1-2,more,neutral,5,4,yes,Vedang
+2025-03-19 09:21:20.387756,45,Male,Pune,Vegetarian,5-10 years,Family Tradition,Never,more,easy,3,4,fuck no,Viraj
+2025-06-25 08:06:23.387756,65,Male,Pune,Vegetarian,Less than 1 year,Health,5,more,difficult,3,4,maybe,Tushar
+2025-08-23 19:23:47.387756,24,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,neutral,3,4,fuck no,Yash
+2025-09-07 01:29:32.387756,45,Male,Pune,Non-Vegetarian,Less than 1 year,Health,more,1-2,easy,4,3,maybe,Viraj
+2025-07-30 22:42:57.387756,37,Male,Pune,Non-Vegetarian,1–5 years,Ethics/Religious Beliefs,5,more,difficult,4,2,maybe,Viraj
+2025-02-27 17:56:59.387756,22,Female,Pune,Vegetarian,5-10 years,Family Tradition,5,more,easy,3,3,yes,Viraj
+2025-09-02 11:53:08.387756,52,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,difficult,1,3,yes,Yash
+2025-06-12 10:58:06.387756,39,Male,Pune,Other,1–5 years,Health,1-2,5,easy,1,5,yes,Viraj
+2025-06-04 02:40:54.387756,39,Female,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,easy,3,3,fuck no,Yash
+2024-12-06 04:14:51.387756,25,Female,Pune,Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,3-4,neutral,3,5,fuck no,Viraj
+2025-05-22 20:39:55.387756,32,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,4,4,maybe,Yash
+2025-04-07 12:12:28.387756,35,Female,Pune,Vegetarian,1–5 years,Health,Never,3-4,difficult,3,5,fuck no,Yash
+2025-05-25 17:18:06.387756,23,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,4,fuck no,Vedang
+2025-02-10 13:39:56.387756,19,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,3-4,easy,4,4,fuck no,Vedang
+2025-07-10 01:08:07.387756,42,Male,Pune,Non-Vegetarian,1–5 years,Family Tradition,Never,more,neutral,4,5,maybe,Yash
+2025-06-10 11:57:36.387756,30,Male,Pune,Non-Vegetarian,1–5 years,Other,Never,3-4,easy,5,5,yes,Yash
+2025-06-03 04:02:37.387756,46,Female,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,easy,3,5,fuck no,Yash
+2024-10-14 16:15:42.387756,29,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,4,5,maybe,Yash
+2024-10-31 13:52:54.387756,65,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,1-2,neutral,3,5,yes,Vedang
+2025-03-25 04:12:46.387756,30,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,3-4,difficult,3,2,fuck no,Tushar
+2025-09-12 15:51:50.387756,60,Male,Pune,Vegetarian,1–5 years,Taste preference,Never,3-4,neutral,3,5,fuck no,Yash
+2025-07-17 18:45:45.387756,44,Female,Pune,Vegetarian,5-10 years,Health,Never,5,easy,3,3,fuck no,Yash
+2025-03-02 06:46:12.387756,45,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,neutral,4,4,yes,Viraj
+2025-09-01 06:38:46.387756,24,Female,Pune,Vegetarian,more than 10 years,Health,3-4,more,difficult,3,5,maybe,Tushar
+2025-02-12 07:05:07.387756,28,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,5,neutral,5,5,fuck no,Tushar
+2024-12-24 23:22:50.387756,40,Male,Pune,Non-Vegetarian,Less than 1 year,Health,5,5,neutral,3,3,yes,Vedang
+2024-11-22 18:15:03.387756,38,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,3-4,difficult,3,3,yes,Yash
+2024-10-31 15:17:28.387756,44,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,more,neutral,3,4,fuck no,Yash
+2025-08-05 01:57:43.387756,64,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,more,more,difficult,3,3,maybe,Yash
+2025-09-07 00:12:38.387756,54,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,easy,3,5,maybe,Viraj
+2025-02-09 06:32:39.387756,57,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,1-2,neutral,3,5,fuck no,Yash
+2025-02-08 13:55:45.387756,47,Male,Pune,Non-Vegetarian,more than 10 years,Health,more,3-4,easy,4,5,yes,Tushar
+2025-01-18 03:22:21.387756,34,Male,Pune,Non-Vegetarian,1–5 years,Health,3-4,more,easy,3,5,fuck no,Tushar
+2025-05-29 09:00:14.387756,48,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,3,4,yes,Tushar
+2024-10-16 01:27:54.387756,57,Male,Pune,Vegetarian,Less than 1 year,Health,1-2,3-4,neutral,3,3,fuck no,Yash
+2025-01-25 05:22:05.387756,29,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,easy,4,2,yes,Vedang
+2025-01-04 21:43:03.387756,18,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,more,difficult,5,4,fuck no,Vedang
+2024-12-25 07:11:31.387756,30,Female,Pune,Vegetarian,1–5 years,Taste preference,3-4,3-4,neutral,3,4,fuck no,Vedang
+2024-10-14 16:36:32.387756,65,Female,Pune,Vegetarian,more than 10 years,Family Tradition,1-2,more,easy,5,3,yes,Tushar
+2024-11-22 22:07:12.387756,43,Male,Pune,Eggetarian,1–5 years,Health,Never,3-4,neutral,4,4,fuck no,Vedang
+2024-12-25 07:06:50.387756,33,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,5,5,neutral,4,3,yes,Vedang
+2025-03-26 01:22:21.387756,33,Male,Pune,Vegetarian,more than 10 years,Family Tradition,Never,3-4,easy,3,3,maybe,Tushar
+2024-12-17 06:31:54.387756,38,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,3-4,neutral,2,4,yes,Yash
+2024-11-05 17:50:30.387756,65,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,neutral,1,5,fuck no,Yash
+2025-03-11 16:52:37.387756,37,Male,Pune,Vegetarian,more than 10 years,Taste preference,1-2,1-2,neutral,4,3,fuck no,Vedang
+2025-01-18 07:08:32.387756,20,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,1,4,maybe,Yash
+2025-03-05 22:12:15.387756,64,Male,Pune,Non-Vegetarian,more than 10 years,Other,1-2,5,neutral,4,3,fuck no,Tushar
+2025-08-15 07:12:20.387756,60,Male,Pune,Vegetarian,more than 10 years,Health,5,3-4,easy,5,3,fuck no,Vedang
+2024-11-07 02:55:29.387756,26,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,Never,3-4,neutral,4,4,maybe,Viraj
+2025-04-26 05:38:13.387756,29,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,difficult,2,3,maybe,Viraj
+2024-10-27 04:46:02.387756,62,Female,Pune,Vegetarian,Less than 1 year,Family Tradition,5,5,neutral,1,5,maybe,Yash
+2025-04-26 16:22:07.387756,35,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,3-4,easy,4,4,fuck no,Vedang
+2025-04-06 14:14:20.387756,36,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,3-4,easy,1,5,yes,Yash
+2024-11-21 10:40:48.387756,51,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,easy,3,4,fuck no,Yash
+2025-03-06 20:15:51.387756,21,Male,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,3-4,easy,3,5,maybe,Yash
+2025-08-09 16:27:23.387756,62,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,3,5,fuck no,Tushar
+2024-10-23 18:13:15.387756,23,Female,Pune,Vegetarian,Less than 1 year,Health,Never,1-2,difficult,3,5,maybe,Yash
+2025-01-18 00:09:29.387756,61,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,4,5,yes,Yash
+2025-06-18 21:50:41.387756,47,Male,Pune,Vegan,1–5 years,Health,Never,5,easy,4,5,yes,Yash
+2024-11-15 04:01:40.387756,49,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,more,neutral,3,2,fuck no,Vedang
+2025-06-22 02:37:01.387756,24,Female,Pune,Non-Vegetarian,1–5 years,Health,3-4,3-4,easy,1,4,fuck no,Vedang
+2025-08-29 07:44:02.387756,26,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,Never,difficult,5,5,maybe,Vedang
+2024-12-23 17:54:09.387756,45,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,more,neutral,4,4,yes,Tushar
+2025-04-07 00:27:12.387756,61,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,easy,4,4,fuck no,Yash
+2025-08-07 17:33:16.387756,58,Male,Pune,Vegetarian,more than 10 years,Taste preference,3-4,3-4,neutral,3,4,maybe,Viraj
+2024-11-29 10:26:54.387756,38,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,easy,4,4,fuck no,Yash
+2024-12-03 05:25:54.387756,35,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,difficult,3,4,fuck no,Yash
+2024-10-22 10:33:39.387756,36,Male,Pune,Vegetarian,1–5 years,Family Tradition,1-2,more,easy,5,3,maybe,Viraj
+2024-12-07 19:50:24.387756,25,Male,Pune,Vegetarian,5-10 years,Health,Never,5,neutral,3,4,maybe,Yash
+2024-10-09 21:27:08.387756,44,Male,Pune,Vegetarian,more than 10 years,Ethics/Religious Beliefs,Never,3-4,neutral,4,3,maybe,Viraj
+2025-08-18 18:30:31.387756,38,Male,Pune,Eggetarian,1–5 years,Family Tradition,5,more,neutral,3,3,fuck no,Yash
+2024-10-31 17:51:39.387756,18,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,5,neutral,4,4,fuck no,Yash
+2025-07-09 21:50:32.387756,23,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,3,4,fuck no,Vedang
+2025-05-08 14:36:20.387756,34,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,more,easy,4,3,maybe,Tushar
+2025-01-18 17:49:19.387756,21,Male,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,easy,5,4,maybe,Viraj
+2025-01-23 09:29:46.387756,25,Male,Pune,Vegetarian,5-10 years,Taste preference,3-4,3-4,neutral,4,3,maybe,Vedang
+2025-06-03 13:44:32.387756,51,Male,Pune,Vegetarian,1–5 years,Health,1-2,3-4,easy,1,3,yes,Viraj
+2025-07-16 06:49:49.387756,24,Male,Pune,Vegetarian,5-10 years,Health,Never,1-2,difficult,3,4,fuck no,Viraj
+2024-10-21 13:50:00.387756,19,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,more,neutral,4,3,maybe,Yash
+2025-09-28 07:47:59.387756,58,Male,Pune,Vegetarian,more than 10 years,Taste preference,5,more,easy,2,4,fuck no,Viraj
+2025-03-25 11:00:46.393140,28,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,difficult,5,3,fuck no,Yash
+2025-05-16 03:21:05.393140,57,Female,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,more,neutral,3,5,yes,Viraj
+2024-11-10 12:44:13.393140,21,Male,Pune,Vegetarian,Less than 1 year,Taste preference,3-4,5,neutral,3,5,yes,Vedang
+2025-07-23 17:47:48.393140,55,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,more,more,neutral,3,1,fuck no,Yash
+2025-06-21 18:31:37.393140,65,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,3-4,easy,5,1,fuck no,Vedang
+2024-12-31 14:50:37.393140,51,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,more,1-2,neutral,5,5,maybe,Vedang
+2025-03-05 19:07:59.393140,23,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,easy,3,4,fuck no,Tushar
+2025-05-02 06:24:13.393140,52,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,neutral,3,5,fuck no,Tushar
+2025-05-18 01:56:29.393140,42,Male,Pune,Vegetarian,1–5 years,Family Tradition,1-2,more,easy,5,5,maybe,Yash
+2025-07-17 03:06:22.393140,54,Male,Pune,Vegan,1–5 years,Health,Never,1-2,neutral,5,3,fuck no,Yash
+2025-08-10 14:44:30.393140,23,Female,Pune,Non-Vegetarian,5-10 years,Family Tradition,1-2,5,easy,5,3,fuck no,Vedang
+2024-11-04 02:30:04.393140,32,Female,Pune,Vegetarian,more than 10 years,Health,Never,5,neutral,5,1,maybe,Vedang
+2025-07-12 10:17:06.393140,48,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,more,easy,4,3,fuck no,Yash
+2025-07-04 16:48:14.393140,49,Female,Pune,Vegetarian,more than 10 years,Other,1-2,more,easy,5,4,maybe,Viraj
+2025-02-02 07:01:28.393140,59,Male,Pune,Vegetarian,1–5 years,Health,more,more,easy,3,4,fuck no,Viraj
+2024-12-08 05:20:36.393140,51,Male,Pune,Vegetarian,Less than 1 year,Taste preference,3-4,more,easy,3,3,maybe,Tushar
+2024-11-11 10:03:00.393140,65,Male,Pune,Other,Less than 1 year,Taste preference,3-4,1-2,neutral,5,5,fuck no,Yash
+2024-12-09 14:00:34.393140,39,Male,Pune,Eggetarian,more than 10 years,Taste preference,Never,3-4,easy,2,5,maybe,Yash
+2024-10-13 16:44:52.393140,37,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,neutral,3,3,maybe,Vedang
+2024-11-30 11:58:53.393140,47,Male,Pune,Vegetarian,1–5 years,Health,more,more,easy,5,4,fuck no,Viraj
+2025-07-03 14:23:13.393140,45,Female,Pune,Vegan,more than 10 years,Health,1-2,more,neutral,3,5,yes,Yash
+2025-06-30 21:44:40.393140,20,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,easy,4,3,fuck no,Vedang
+2024-10-24 21:08:03.393140,22,Female,Pune,Vegetarian,Less than 1 year,Taste preference,Never,more,neutral,5,1,maybe,Viraj
+2025-07-16 22:15:27.393140,63,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,1-2,more,neutral,5,1,fuck no,Yash
+2025-05-28 06:30:12.393140,23,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,5,easy,4,3,fuck no,Vedang
+2025-06-17 01:37:47.393140,46,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,4,3,fuck no,Vedang
+2024-12-06 13:09:46.393140,26,Female,Pune,Vegetarian,Less than 1 year,Other,1-2,more,neutral,1,3,fuck no,Viraj
+2024-12-30 15:54:30.393140,61,Male,Pune,Non-Vegetarian,more than 10 years,Health,5,more,neutral,3,3,maybe,Viraj
+2025-02-27 17:13:47.393140,60,Male,Pune,Non-Vegetarian,1–5 years,Other,Never,5,difficult,5,4,fuck no,Vedang
+2025-03-07 11:00:18.393140,31,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,3-4,more,easy,5,5,maybe,Yash
+2025-06-23 17:08:53.393140,52,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,neutral,5,5,yes,Vedang
+2025-03-30 11:02:20.393140,59,Male,Pune,Vegetarian,more than 10 years,Taste preference,Never,more,easy,3,4,fuck no,Yash
+2025-08-12 16:58:38.393140,28,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,more,neutral,4,3,maybe,Viraj
+2025-03-23 10:30:17.393140,62,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,1-2,easy,4,4,fuck no,Viraj
+2025-03-16 21:26:29.393140,41,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,5,3,maybe,Yash
+2024-12-23 11:48:31.393140,46,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,neutral,3,4,fuck no,Viraj
+2025-08-28 16:13:07.393140,33,Male,Pune,Vegetarian,1–5 years,Family Tradition,5,1-2,easy,4,3,maybe,Vedang
+2025-03-31 14:54:57.393140,18,Female,Pune,Vegetarian,more than 10 years,Taste preference,3-4,more,difficult,4,4,fuck no,Viraj
+2025-08-28 09:02:41.393140,35,Male,Pune,Non-Vegetarian,1–5 years,Other,3-4,3-4,easy,1,3,fuck no,Yash
+2025-06-19 19:28:43.393140,40,Female,Pune,Vegan,Less than 1 year,Family Tradition,1-2,3-4,neutral,4,5,maybe,Yash
+2025-03-04 16:56:01.393140,18,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,3-4,easy,4,1,fuck no,Viraj
+2025-07-17 13:14:52.393140,29,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,1-2,easy,5,4,yes,Yash
+2025-07-23 14:23:18.393140,33,Female,Pune,Non-Vegetarian,more than 10 years,Health,more,3-4,difficult,2,3,yes,Yash
+2025-01-06 12:19:17.393140,20,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,easy,5,5,maybe,Yash
+2025-05-27 07:57:28.393140,42,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,easy,4,3,yes,Yash
+2025-05-16 23:58:59.393140,56,Prefer not to say,Pune,Eggetarian,more than 10 years,Other,5,more,easy,5,4,maybe,Vedang
+2025-02-24 17:11:35.393140,26,Male,Pune,Non-Vegetarian,more than 10 years,Ethics/Religious Beliefs,more,5,easy,3,5,maybe,Yash
+2025-06-29 22:59:57.393140,63,Female,Pune,Vegetarian,Less than 1 year,Health,Never,5,easy,3,5,fuck no,Yash
+2025-04-18 03:12:33.393140,54,Male,Pune,Vegan,1–5 years,Health,1-2,more,easy,5,3,yes,Tushar
+2024-10-09 22:34:51.393140,50,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,easy,4,4,maybe,Yash
+2024-11-02 19:47:16.393140,19,Female,Pune,Vegetarian,1–5 years,Other,Never,more,easy,4,3,fuck no,Viraj
+2025-02-27 00:41:40.393140,54,Male,Pune,Vegetarian,more than 10 years,Family Tradition,3-4,5,neutral,3,3,fuck no,Yash
+2025-03-11 15:39:44.393140,40,Prefer not to say,Pune,Vegetarian,more than 10 years,Taste preference,1-2,more,easy,3,5,fuck no,Viraj
+2025-04-14 19:54:55.393140,45,Female,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,easy,5,3,yes,Yash
+2025-04-18 23:57:41.393140,63,Male,Pune,Non-Vegetarian,1–5 years,Health,1-2,1-2,neutral,3,3,yes,Viraj
+2025-05-15 21:35:30.393140,61,Female,Pune,Vegetarian,more than 10 years,Family Tradition,Never,more,difficult,3,2,fuck no,Yash
+2025-03-22 05:07:58.393140,22,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,5,more,difficult,4,2,maybe,Tushar
+2025-03-02 06:49:22.393140,40,Male,Pune,Non-Vegetarian,5-10 years,Taste preference,Never,more,neutral,1,3,maybe,Tushar
+2024-12-06 09:17:40.396215,36,Female,Pune,Vegetarian,Less than 1 year,Health,5,more,neutral,3,3,fuck no,Viraj
+2025-01-24 08:55:14.396215,36,Male,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,2,2,maybe,Vedang
+2025-04-29 22:58:57.396215,56,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,neutral,3,3,fuck no,Yash
+2025-03-05 23:35:43.396215,31,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,Never,more,neutral,3,3,yes,Yash
+2025-04-02 22:32:04.396215,39,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,5,4,fuck no,Viraj
+2025-07-04 11:14:08.396215,32,Male,Pune,Eggetarian,Less than 1 year,Taste preference,1-2,5,neutral,3,2,yes,Viraj
+2024-11-27 15:10:03.396215,58,Male,Pune,Vegetarian,5-10 years,Ethics/Religious Beliefs,1-2,more,easy,5,3,maybe,Yash
+2025-05-14 22:40:53.396215,31,Prefer not to say,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,5,neutral,5,5,yes,Viraj
+2025-06-14 19:03:05.396215,22,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,5,4,maybe,Viraj
+2024-11-11 15:43:05.396215,45,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,difficult,1,5,fuck no,Yash
+2025-07-31 10:52:53.396215,42,Female,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,more,more,easy,5,3,yes,Viraj
+2025-04-08 17:31:43.396215,48,Male,Pune,Non-Vegetarian,Less than 1 year,Health,1-2,5,neutral,3,3,fuck no,Viraj
+2025-08-21 16:31:38.396215,37,Female,Pune,Vegetarian,Less than 1 year,Ethics/Religious Beliefs,Never,more,difficult,4,4,maybe,Viraj
+2025-07-22 02:40:15.396215,24,Female,Pune,Eggetarian,5-10 years,Taste preference,5,3-4,easy,4,4,maybe,Yash
+2024-10-24 07:12:21.396834,39,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,more,3-4,neutral,3,3,fuck no,Tushar
+2025-05-06 23:58:07.396834,43,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,difficult,4,4,yes,Viraj
+2025-05-01 02:33:56.396834,62,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,5,neutral,4,4,fuck no,Yash
+2024-12-18 02:24:32.396834,42,Male,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,3-4,difficult,4,3,fuck no,Vedang
+2025-06-28 19:06:13.396834,30,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,neutral,4,5,yes,Vedang
+2025-07-01 11:04:57.396834,24,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,3-4,easy,4,5,fuck no,Yash
+2025-08-22 12:27:21.396834,45,Male,Pune,Eggetarian,Less than 1 year,Family Tradition,1-2,more,easy,3,5,yes,Yash
+2025-07-10 07:01:56.396834,21,Male,Pune,Vegetarian,1–5 years,Health,Never,more,neutral,3,1,yes,Viraj
+2024-10-09 07:00:11.396834,57,Female,Pune,Vegetarian,5-10 years,Other,Never,3-4,neutral,4,4,maybe,Vedang
+2024-11-26 01:58:33.396834,56,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,4,4,fuck no,Yash
+2024-11-23 11:12:23.396834,32,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,4,5,yes,Tushar
+2024-12-04 12:11:36.396834,26,Female,Pune,Non-Vegetarian,Less than 1 year,Other,more,5,easy,4,4,fuck no,Vedang
+2024-11-18 00:26:47.396834,18,Male,Pune,Vegetarian,1–5 years,Other,1-2,3-4,difficult,4,3,fuck no,Yash
+2025-06-15 09:12:41.396834,37,Male,Pune,Non-Vegetarian,more than 10 years,Family Tradition,3-4,more,easy,5,5,fuck no,Vedang
+2025-04-11 00:51:15.396834,23,Male,Pune,Vegetarian,Less than 1 year,Taste preference,more,5,easy,4,3,maybe,Yash
+2025-05-23 10:47:37.396834,41,Male,Pune,Non-Vegetarian,1–5 years,Ethics/Religious Beliefs,Never,3-4,neutral,4,3,maybe,Yash
+2025-01-20 02:09:07.396834,49,Female,Pune,Non-Vegetarian,Less than 1 year,Health,5,3-4,neutral,3,4,maybe,Viraj
+2025-01-29 04:41:53.396834,37,Female,Pune,Vegetarian,Less than 1 year,Health,1-2,more,neutral,4,3,maybe,Tushar
+2025-05-26 23:58:56.396834,28,Male,Pune,Vegetarian,more than 10 years,Health,5,3-4,easy,2,4,maybe,Yash
+2025-03-16 12:16:16.396834,40,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,neutral,3,5,yes,Yash
+2025-09-09 12:33:05.396834,61,Female,Pune,Vegetarian,Less than 1 year,Health,Never,5,neutral,3,4,fuck no,Yash
+2025-08-22 03:27:37.396834,34,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,Never,more,easy,4,5,maybe,Yash
+2025-01-02 17:58:37.396834,37,Male,Pune,Vegetarian,Less than 1 year,Health,3-4,more,neutral,4,2,maybe,Yash
+2024-11-13 22:56:07.396834,35,Female,Pune,Vegetarian,Less than 1 year,Health,1-2,3-4,difficult,5,2,yes,Yash
+2024-12-16 19:43:52.396834,47,Male,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,4,5,yes,Viraj
+2025-01-18 17:25:49.396834,40,Female,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,1-2,easy,3,2,fuck no,Tushar
+2025-05-25 04:05:35.396834,64,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,3-4,more,easy,4,5,fuck no,Viraj
+2025-09-15 04:02:12.396834,51,Female,Pune,Other,1–5 years,Taste preference,3-4,more,difficult,3,4,yes,Yash
+2025-01-06 10:58:18.396834,48,Female,Pune,Non-Vegetarian,more than 10 years,Health,Never,3-4,neutral,4,1,maybe,Yash
+2025-03-05 06:25:06.396834,62,Male,Pune,Eggetarian,1–5 years,Health,Never,more,easy,4,4,maybe,Yash
+2025-09-06 09:43:58.396834,59,Male,Pune,Other,1–5 years,Taste preference,3-4,more,neutral,3,4,maybe,Viraj
+2024-11-12 14:17:30.396834,50,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,easy,4,4,fuck no,Yash
+2025-03-16 06:31:32.396834,41,Female,Pune,Vegetarian,Less than 1 year,Health,more,more,easy,5,4,maybe,Tushar
+2025-03-13 16:07:28.396834,41,Female,Pune,Non-Vegetarian,5-10 years,Family Tradition,3-4,more,difficult,5,3,maybe,Viraj
+2025-01-07 04:15:24.396834,23,Female,Pune,Vegan,1–5 years,Family Tradition,1-2,1-2,neutral,4,5,fuck no,Viraj
+2025-05-22 10:48:19.396834,63,Male,Pune,Vegetarian,more than 10 years,Taste preference,3-4,3-4,neutral,3,3,maybe,Vedang
+2025-06-28 10:34:51.396834,44,Male,Pune,Other,1–5 years,Health,1-2,more,easy,3,5,maybe,Yash
+2024-10-07 11:33:08.396834,47,Male,Pune,Eggetarian,1–5 years,Ethics/Religious Beliefs,Never,1-2,neutral,4,4,fuck no,Viraj
+2025-04-11 11:42:09.396834,29,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,easy,3,4,fuck no,Viraj
+2025-01-13 07:06:34.396834,34,Male,Pune,Non-Vegetarian,more than 10 years,Other,Never,more,easy,4,4,fuck no,Tushar
+2024-11-11 06:54:15.396834,61,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,more,neutral,3,3,yes,Viraj
+2025-08-26 10:35:35.396834,39,Female,Pune,Non-Vegetarian,more than 10 years,Family Tradition,1-2,1-2,easy,5,3,fuck no,Yash
+2025-04-16 13:22:07.396834,52,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,5,easy,2,4,yes,Vedang
+2025-01-12 05:45:59.396834,55,Female,Pune,Eggetarian,Less than 1 year,Health,Never,5,easy,5,4,maybe,Yash
+2024-10-23 18:25:06.396834,38,Female,Pune,Vegetarian,more than 10 years,Health,Never,3-4,easy,1,2,fuck no,Yash
+2025-02-28 08:24:14.396834,60,Female,Pune,Vegetarian,Less than 1 year,Health,Never,more,easy,4,1,fuck no,Vedang
+2025-08-04 20:17:14.396834,34,Male,Pune,Vegetarian,more than 10 years,Health,3-4,more,neutral,3,4,fuck no,Vedang
+2025-01-10 08:55:23.396834,63,Female,Pune,Non-Vegetarian,Less than 1 year,Other,1-2,5,easy,4,3,fuck no,Tushar
+2024-11-10 14:02:09.396834,44,Prefer not to say,Pune,Vegetarian,Less than 1 year,Health,Never,more,difficult,1,3,maybe,Viraj
+2024-12-18 08:10:22.396834,43,Female,Pune,Vegetarian,Less than 1 year,Family Tradition,Never,1-2,neutral,5,5,fuck no,Yash
+2025-06-29 14:58:17.396834,25,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,5,5,easy,4,3,maybe,Yash
+2024-12-14 02:47:17.396834,45,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,3,5,maybe,Viraj
+2024-10-06 09:13:25.396834,23,Female,Pune,Non-Vegetarian,5-10 years,Taste preference,more,more,difficult,4,3,maybe,Yash
+2025-07-20 02:59:31.396834,61,Male,Pune,Vegetarian,Less than 1 year,Health,Never,3-4,easy,4,5,fuck no,Viraj
+2025-03-07 09:24:11.396834,41,Female,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,3,3,fuck no,Vedang
+2025-09-24 04:11:45.396834,35,Male,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,5,3,fuck no,Yash
+2025-03-25 01:17:03.396834,25,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,3,4,yes,Viraj
+2024-11-27 19:33:35.396834,38,Female,Pune,Vegetarian,Less than 1 year,Taste preference,more,3-4,easy,3,5,fuck no,Yash
+2025-04-02 05:18:17.396834,61,Male,Pune,Non-Vegetarian,more than 10 years,Health,3-4,3-4,easy,4,4,yes,Viraj
+2025-06-02 23:32:20.396834,32,Male,Pune,Non-Vegetarian,5-10 years,Taste preference,1-2,more,neutral,2,5,yes,Yash
+2024-11-21 01:55:58.396834,32,Male,Pune,Non-Vegetarian,1–5 years,Taste preference,Never,more,easy,3,5,yes,Tushar
+2024-11-14 11:51:40.396834,43,Female,Pune,Non-Vegetarian,1–5 years,Health,Never,5,easy,5,4,maybe,Vedang
+2025-07-12 14:08:43.396834,41,Female,Pune,Non-Vegetarian,5-10 years,Health,1-2,more,easy,3,4,maybe,Viraj
+2024-12-10 00:35:11.396834,51,Male,Pune,Non-Vegetarian,1–5 years,Health,Never,more,neutral,3,3,yes,Vedang
+2025-08-15 22:01:16.396834,55,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,3-4,more,neutral,5,4,fuck no,Tushar
+2025-09-09 18:54:36.396834,35,Female,Pune,Vegan,more than 10 years,Other,3-4,5,neutral,3,4,maybe,Yash
+2025-05-16 21:14:14.396834,43,Male,Pune,Non-Vegetarian,Less than 1 year,Health,Never,1-2,neutral,4,4,maybe,Yash
+2025-02-11 06:27:52.396834,58,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,more,difficult,5,3,yes,Yash
+2025-09-08 00:59:08.396834,32,Female,Pune,Other,Less than 1 year,Health,1-2,more,easy,4,5,maybe,Tushar
+2025-09-12 21:20:03.396834,23,Female,Pune,Vegetarian,1–5 years,Taste preference,Never,more,easy,3,3,yes,Vedang
+2024-10-19 19:57:07.396834,59,Male,Pune,Vegetarian,more than 10 years,Health,5,more,easy,1,3,fuck no,Viraj
+2025-05-11 05:05:58.396834,59,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,5,more,neutral,4,3,fuck no,Tushar
+2025-03-26 20:52:42.396834,49,Female,Pune,Non-Vegetarian,5-10 years,Health,more,more,difficult,5,4,fuck no,Viraj
+2025-07-18 15:21:46.396834,30,Male,Pune,Vegetarian,more than 10 years,Other,Never,3-4,easy,4,3,maybe,Yash
+2025-02-20 12:07:27.396834,29,Male,Pune,Non-Vegetarian,more than 10 years,Health,1-2,1-2,neutral,3,2,maybe,Viraj
+2025-07-27 07:19:55.396834,63,Male,Pune,Vegetarian,1–5 years,Ethics/Religious Beliefs,3-4,3-4,difficult,3,5,fuck no,Yash
+2025-04-17 08:27:16.396834,21,Female,Pune,Vegetarian,Less than 1 year,Taste preference,1-2,more,neutral,4,4,fuck no,Yash
+2025-05-08 00:05:58.396834,32,Female,Pune,Non-Vegetarian,Less than 1 year,Health,3-4,3-4,neutral,3,5,fuck no,Tushar
+2025-01-18 19:22:18.396834,22,Female,Pune,Vegetarian,1–5 years,Taste preference,Never,more,easy,2,3,fuck no,Yash
+2025-02-28 05:03:25.400392,32,Male,Pune,Vegan,more than 10 years,Health,Never,3-4,difficult,4,4,fuck no,Tushar
+2025-01-27 13:31:08.400392,33,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,3-4,neutral,5,3,fuck no,Vedang
+2025-02-23 04:49:58.400392,49,Male,Pune,Non-Vegetarian,1–5 years,Health,5,5,difficult,3,4,fuck no,Viraj
+2025-04-12 21:43:54.400392,30,Female,Pune,Eggetarian,Less than 1 year,Taste preference,3-4,more,neutral,3,4,fuck no,Vedang
+2025-05-31 07:20:55.400392,57,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,3-4,3-4,neutral,3,4,fuck no,Vedang
+2025-09-09 00:28:28.400392,55,Female,Pune,Non-Vegetarian,Less than 1 year,Health,Never,more,neutral,5,1,maybe,Yash
+2024-11-05 11:14:15.400392,47,Female,Pune,Vegetarian,1–5 years,Ethics/Religious Beliefs,1-2,more,neutral,3,5,maybe,Yash
+2025-04-25 04:20:43.400392,30,Female,Pune,Vegetarian,Less than 1 year,Health,Never,more,neutral,2,3,yes,Viraj
+2025-06-14 03:36:17.400392,57,Male,Pune,Vegetarian,Less than 1 year,Family Tradition,3-4,1-2,easy,3,5,fuck no,Viraj
+2025-06-11 16:58:37.400392,23,Female,Pune,Vegetarian,Less than 1 year,Health,3-4,5,easy,3,4,fuck no,Yash
+2025-05-17 00:02:38.400392,56,Male,Pune,Vegetarian,1–5 years,Health,1-2,more,easy,5,4,fuck no,Yash
+2024-10-04 14:03:38.400392,59,Female,Pune,Vegetarian,1–5 years,Taste preference,1-2,5,neutral,4,4,fuck no,Yash
+2024-11-18 15:04:45.400392,39,Female,Pune,Non-Vegetarian,more than 10 years,Health,1-2,more,easy,5,5,fuck no,Vedang
+2025-09-07 06:16:00.400392,19,Female,Pune,Vegetarian,Less than 1 year,Health,5,1-2,easy,5,5,fuck no,Yash
+2025-06-25 11:00:18.400392,54,Female,Pune,Eggetarian,more than 10 years,Ethics/Religious Beliefs,1-2,5,difficult,4,4,yes,Yash
+2024-10-26 14:31:23.400392,20,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,more,easy,5,4,yes,Vedang
+2025-09-03 22:35:29.400392,50,Male,Pune,Vegetarian,1–5 years,Family Tradition,3-4,more,neutral,4,5,yes,Yash
+2025-02-18 13:11:14.400392,19,Female,Pune,Vegetarian,more than 10 years,Health,1-2,more,neutral,4,3,fuck no,Yash
+2025-08-05 12:06:28.400392,42,Female,Pune,Non-Vegetarian,1–5 years,Family Tradition,1-2,3-4,easy,5,2,fuck no,Yash
+2025-08-06 03:42:01.400392,53,Male,Pune,Non-Vegetarian,Less than 1 year,Family Tradition,1-2,3-4,neutral,2,3,yes,Viraj
+2024-12-07 17:59:59.400392,52,Male,Pune,Vegetarian,Less than 1 year,Other,3-4,more,difficult,3,3,maybe,Tushar
+2024-10-14 19:04:58.400392,24,Male,Pune,Eggetarian,Less than 1 year,Taste preference,3-4,5,neutral,4,3,maybe,Vedang
+2024-11-27 01:39:05.400392,27,Male,Pune,Non-Vegetarian,more than 10 years,Health,Never,more,easy,3,5,maybe,Viraj
+2025-01-15 05:05:04.400392,43,Female,Pune,Vegetarian,1–5 years,Taste preference,1-2,1-2,neutral,5,4,maybe,Yash
+2024-10-13 03:12:18.400392,53,Female,Pune,Non-Vegetarian,more than 10 years,Taste preference,1-2,more,difficult,3,5,maybe,Yash
+2025-04-30 06:46:15.400392,19,Male,Pune,Other,Less than 1 year,Other,5,3-4,neutral,4,5,maybe,Yash
+2025-06-10 10:21:45.400392,24,Male,Pune,Vegetarian,more than 10 years,Taste preference,3-4,3-4,neutral,4,3,yes,Vedang
+2025-02-22 13:32:11.400392,45,Female,Pune,Non-Vegetarian,1–5 years,Taste preference,1-2,more,neutral,3,3,maybe,Yash
+2025-03-26 23:15:00.400392,22,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,5,neutral,5,3,fuck no,Viraj
+2025-03-10 12:06:08.400392,45,Female,Pune,Non-Vegetarian,1–5 years,Health,1-2,1-2,neutral,5,5,fuck no,Vedang
+2025-08-04 01:04:41.400392,24,Male,Pune,Non-Vegetarian,Less than 1 year,Taste preference,Never,5,neutral,3,5,fuck no,Tushar
+2025-01-21 18:17:08.400392,20,Male,Pune,Vegetarian,1–5 years,Health,Never,more,easy,4,4,fuck no,Yash
